@@ -1,0 +1,135 @@
+import dash
+from dash import dcc, html
+from dash.dependencies import Input, Output
+import plotly.express as px
+import pandas as pd
+import webbrowser
+import threading
+import time
+
+# Load the dataset
+df = pd.read_csv("crime_csv.csv")
+
+# Initialize the Dash app
+app = dash.Dash(__name__)
+
+# Layout for the app
+app.layout = html.Div([
+    html.H1("Crime Dashboard", style={'textAlign': 'center'}),
+    
+    # Dropdown to select the state
+    dcc.Dropdown(
+        id="state-dropdown",
+        options=[{'label': state, 'value': state} for state in df['State'].unique()],
+        value=df['State'].unique()[0],  # Default value
+        placeholder="Select a State",
+        style={'width': '50%', 'margin': 'auto'}
+    ),
+
+    # Create a row for the charts
+    html.Div([
+        html.Div([
+            dcc.Graph(id='crime-bar-chart'),
+        ], style={'width': '50%', 'display': 'inline-block'}),
+        
+        html.Div([
+            dcc.Graph(id='crime-line-chart'),
+        ], style={'width': '50%', 'display': 'inline-block'}),
+    ]),
+
+    html.Div([
+        html.Div([
+            dcc.Graph(id='crime-pie-chart'),
+        ], style={'width': '50%', 'display': 'inline-block'}),
+        
+        html.Div([
+            dcc.Graph(id='crime-distribution-chart'),
+        ], style={'width': '50%', 'display': 'inline-block'}),
+    ]),
+
+    # Summary table
+    html.Div(id='summary-table', style={'marginTop': '20px', 'textAlign': 'center'})
+])
+
+# Callback to update dashboard elements
+@app.callback(
+    [
+        Output('crime-bar-chart', 'figure'),
+        Output('crime-line-chart', 'figure'),
+        Output('crime-pie-chart', 'figure'),
+        Output('crime-distribution-chart', 'figure'),
+        Output('summary-table', 'children')
+    ],
+    [Input('state-dropdown', 'value')]
+)
+def update_dashboard(selected_state):
+    # Filter data based on selected state
+    state_data = df[df['State'] == selected_state]
+    
+    # Handle missing values
+    state_data.fillna(0, inplace=True)
+
+    # Bar Chart: Total crime counts by type
+    crime_totals = state_data.groupby('Crime_Type')['Victims'].sum()
+    bar_chart_fig = px.bar(
+        crime_totals,
+        x=crime_totals.index,
+        y=crime_totals.values,
+        labels={'x': 'Crime Type', 'y': 'Total Victims'},
+        title="Total Crimes by Type",
+        color=crime_totals.index
+    )
+    bar_chart_fig.update_traces(texttemplate='%{y}', textposition='outside')
+
+    # Line Chart: Crime trends over years
+    line_chart_fig = px.line(
+        state_data.groupby('Year')['Victims'].sum().reset_index(),
+        x='Year',
+        y='Victims',
+        title=f"Crime Trends Over Years in {selected_state}",
+        labels={'Year': 'Year', 'Victims': 'Total Victims'}
+    )
+
+    # Pie Chart: Proportion of crime types
+    pie_chart_fig = px.pie(
+        state_data,
+        values='Victims',
+        names='Crime_Type',
+    )
+
+    # Distribution Chart: Crime counts in top 5 districts
+    top_State = state_data.groupby('State')['Victims'].sum().nlargest(5)
+    distribution_chart = px.bar(
+        top_State,
+        x=top_State.index,
+        y=top_State.values,
+        title="Top 5 States by Victims",
+        labels={'x': 'State', 'y': 'Victims'}
+    )
+
+    # Summary Table
+    summary_data = pd.DataFrame({
+        'Crime Type': crime_totals.index,
+        'Total Victims': crime_totals.values
+    })
+    summary_table = html.Table([
+        html.Thead(html.Tr([html.Th(col) for col in summary_data.columns])),
+        html.Tbody([
+            html.Tr([html.Td(summary_data.iloc[i][col]) for col in summary_data.columns])
+            for i in range(len(summary_data))
+        ])
+    ])
+
+    return bar_chart_fig, line_chart_fig, pie_chart_fig, distribution_chart, summary_table
+
+# Function to open the browser automatically
+def open_browser():
+    time.sleep(1)  # wait for the server to start
+    webbrowser.open("http://127.0.0.1:8051/")  # open the Dash app in the default browser
+
+# Run the app
+if __name__ == '__main__':
+    threading.Thread(target=open_browser).start()
+    app.run_server(debug=True, port=8051)
+
+  
