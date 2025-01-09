@@ -1,0 +1,2001 @@
+﻿State,Crime_Type,Year,Victims,Resolved,Police_Stations_Involved,Age_Group
+West Bengal,Murder,2008,26,Yes,1,Senior
+Bihar,Fraud,2020,35,Yes,9,Child
+Kerala,Domestic Violence,2011,44,No,10,Senior
+West Bengal,Theft,2007,20,No,9,Child
+Punjab,Fraud,2011,17,No,6,Teenager
+Rajasthan,Kidnapping,2006,31,No,4,Teenager
+Bihar,Fraud,2005,2,Yes,6,Child
+Punjab,Theft,2022,8,No,1,Child
+Uttar Pradesh,Theft,2006,46,Yes,6,Senior
+Bihar,Murder,2010,10,Yes,8,Adult
+Bihar,Domestic Violence,2009,4,Yes,1,Teenager
+Maharashtra,Drugs,2017,12,Yes,4,Adult
+West Bengal,Assault,2000,50,No,6,Child
+Gujarat,Cybercrime,2000,4,No,6,Teenager
+Punjab,Domestic Violence,2003,46,No,3,Adult
+Punjab,Drugs,2007,48,Yes,1,Senior
+Maharashtra,Theft,2005,27,No,1,Teenager
+Maharashtra,Other,2015,11,No,1,Teenager
+Karnataka,Kidnapping,2022,50,Yes,7,Senior
+Bihar,Drugs,2003,37,No,1,Adult
+Maharashtra,Drugs,2007,18,Yes,7,Teenager
+Karnataka,Drugs,2023,40,No,7,Adult
+Kerala,Robbery,2023,10,Yes,1,Child
+Tamil Nadu,Murder,2000,10,Yes,5,Teenager
+Karnataka,Fraud,2002,6,No,1,Senior
+Karnataka,Robbery,2008,31,No,3,Child
+Rajasthan,Domestic Violence,2011,3,Yes,5,Senior
+Uttar Pradesh,Other,2006,37,No,7,Senior
+Punjab,Assault,2016,26,No,1,Teenager
+West Bengal,Robbery,2021,43,Yes,5,Senior
+Karnataka,Cybercrime,2008,34,No,1,Senior
+West Bengal,Drugs,2005,3,No,1,Teenager
+Maharashtra,Drugs,2022,16,Yes,2,Adult
+Bihar,Robbery,2003,47,Yes,10,Adult
+Uttar Pradesh,Assault,2000,30,Yes,1,Teenager
+Uttar Pradesh,Other,2016,35,Yes,10,Teenager
+Bihar,Theft,2004,45,No,10,Adult
+Rajasthan,Fraud,2016,26,Yes,4,Child
+Bihar,Drugs,2007,38,Yes,6,Child
+Uttar Pradesh,Domestic Violence,2004,34,No,5,Senior
+Gujarat,Cybercrime,2000,21,No,7,Adult
+Maharashtra,Fraud,2016,47,No,7,Adult
+Uttar Pradesh,Fraud,2006,4,Yes,10,Senior
+Tamil Nadu,Kidnapping,2002,47,No,6,Adult
+Kerala,Robbery,2022,34,Yes,10,Adult
+Karnataka,Cybercrime,2012,13,No,9,Adult
+Punjab,Domestic Violence,2008,14,No,8,Child
+Kerala,Drugs,2002,17,No,9,Senior
+Maharashtra,Other,2007,46,No,1,Adult
+Punjab,Assault,2013,36,No,4,Senior
+Maharashtra,Robbery,2013,46,Yes,1,Teenager
+Maharashtra,Theft,2018,23,No,1,Senior
+Kerala,Fraud,2017,27,Yes,7,Senior
+Bihar,Theft,2020,16,No,3,Senior
+Gujarat,Robbery,2004,24,Yes,8,Child
+Maharashtra,Theft,2001,14,No,6,Senior
+Uttar Pradesh,Assault,2019,26,No,8,Teenager
+Punjab,Theft,2022,15,Yes,7,Adult
+Bihar,Theft,2009,7,No,4,Child
+Bihar,Other,2013,21,No,5,Child
+Karnataka,Drugs,2019,2,Yes,4,Adult
+Kerala,Cybercrime,2023,36,Yes,5,Adult
+Gujarat,Fraud,2011,6,No,5,Senior
+Punjab,Other,2006,2,No,4,Senior
+Punjab,Drugs,2021,16,No,10,Adult
+Punjab,Other,2019,8,Yes,5,Teenager
+Tamil Nadu,Drugs,2011,14,Yes,8,Child
+Kerala,Assault,2021,27,No,3,Teenager
+Gujarat,Drugs,2004,15,No,6,Adult
+West Bengal,Robbery,2016,28,Yes,3,Teenager
+Rajasthan,Robbery,2000,46,No,6,Child
+Gujarat,Assault,2015,6,No,3,Teenager
+Kerala,Robbery,2018,36,Yes,5,Teenager
+Kerala,,2011,10,No,4,Teenager
+Uttar Pradesh,Cybercrime,2016,28,Yes,8,Adult
+Rajasthan,Fraud,2020,31,Yes,7,Adult
+Maharashtra,Assault,2009,32,Yes,1,Child
+Rajasthan,Theft,2000,5,Yes,3,Teenager
+Bihar,Theft,2016,30,No,8,Senior
+Kerala,Fraud,2017,22,Yes,4,Adult
+Punjab,Drugs,2020,15,Yes,5,Adult
+Maharashtra,Other,2013,26,No,9,Adult
+Tamil Nadu,Robbery,2015,22,No,8,Adult
+Karnataka,Theft,2008,46,Yes,9,Teenager
+Punjab,Fraud,2009,48,Yes,1,Teenager
+Kerala,Cybercrime,2001,33,Yes,4,Adult
+Gujarat,Other,2003,8,No,10,Adult
+Tamil Nadu,Theft,2011,19,Yes,3,Teenager
+Tamil Nadu,Drugs,2018,20,Yes,8,Child
+Kerala,Murder,2019,28,No,8,Adult
+Rajasthan,Murder,2002,24,No,6,Senior
+Rajasthan,Kidnapping,2019,46,No,9,Senior
+Tamil Nadu,Kidnapping,2010,49,Yes,2,Senior
+Maharashtra,Cybercrime,2018,6,Yes,4,Child
+Punjab,Kidnapping,2008,10,No,7,Senior
+Gujarat,Assault,2021,2,No,4,Senior
+Punjab,Robbery,2001,14,Yes,9,Adult
+Bihar,Cybercrime,2016,24,No,4,Adult
+Maharashtra,Assault,2012,9,No,8,Senior
+West Bengal,Fraud,2007,11,Yes,10,Adult
+Maharashtra,Domestic Violence,2022,28,Yes,4,Teenager
+Gujarat,Cybercrime,2021,47,Yes,2,Teenager
+Gujarat,Murder,2011,20,No,3,Senior
+Punjab,Murder,2014,36,Yes,5,Adult
+Bihar,Assault,2014,14,No,2,Adult
+Maharashtra,Domestic Violence,2019,16,No,3,Teenager
+West Bengal,Other,2012,21,No,9,Child
+West Bengal,Kidnapping,2005,11,Yes,6,Adult
+Maharashtra,Fraud,2003,26,No,7,Senior
+Rajasthan,Domestic Violence,2019,49,Yes,7,Teenager
+Karnataka,Domestic Violence,2005,38,No,5,Child
+Tamil Nadu,Assault,2022,7,No,8,Teenager
+Rajasthan,Domestic Violence,2012,31,No,5,Teenager
+West Bengal,Domestic Violence,2015,3,No,9,Teenager
+Tamil Nadu,Kidnapping,2003,20,No,2,Adult
+Gujarat,Domestic Violence,2007,25,No,8,Teenager
+Bihar,Assault,2005,50,Yes,5,Child
+West Bengal,Other,2001,41,No,8,Teenager
+Maharashtra,Kidnapping,2005,21,No,4,Teenager
+Gujarat,Fraud,2002,15,Yes,8,Adult
+Gujarat,Cybercrime,2010,49,Yes,10,Adult
+Kerala,Theft,2018,1,No,7,Teenager
+West Bengal,Theft,2007,14,No,3,Senior
+Kerala,Fraud,2015,19,Yes,2,Senior
+Bihar,Assault,2012,49,Yes,6,Senior
+Uttar Pradesh,Assault,2022,1,No,6,Senior
+Uttar Pradesh,Other,2013,36,No,8,Adult
+Kerala,Kidnapping,2001,41,No,7,Child
+Rajasthan,Robbery,2016,40,No,9,Teenager
+Bihar,Domestic Violence,2004,44,No,10,Child
+Uttar Pradesh,Theft,2015,14,No,4,Teenager
+West Bengal,Murder,2013,6,No,4,Child
+Maharashtra,Murder,2010,45,No,4,Senior
+Gujarat,Drugs,2017,33,No,4,Adult
+Tamil Nadu,Robbery,2003,47,No,4,Child
+Uttar Pradesh,Theft,2022,12,No,7,Adult
+Karnataka,Kidnapping,2015,29,No,5,Child
+Tamil Nadu,Theft,2006,26,No,8,Senior
+Karnataka,Murder,2003,31,No,1,Adult
+West Bengal,Assault,2013,3,Yes,2,Senior
+Gujarat,Domestic Violence,2013,37,No,3,Child
+Bihar,Kidnapping,2017,47,Yes,8,Adult
+Tamil Nadu,Fraud,2000,36,Yes,4,Teenager
+Gujarat,Other,2015,20,Yes,9,Child
+Maharashtra,Murder,2004,43,No,5,Teenager
+Punjab,Theft,2012,48,No,10,Child
+Rajasthan,Fraud,2016,30,Yes,7,Teenager
+Karnataka,Cybercrime,2013,17,Yes,1,Senior
+Gujarat,Domestic Violence,2004,16,No,10,Teenager
+Tamil Nadu,Assault,2023,35,No,4,Child
+Bihar,Domestic Violence,2022,13,Yes,4,Child
+Kerala,Other,2022,25,Yes,10,Teenager
+Tamil Nadu,Assault,2021,34,No,5,Senior
+Gujarat,Cybercrime,2000,48,Yes,1,Adult
+Gujarat,Robbery,2019,48,Yes,8,Child
+Maharashtra,Assault,2006,1,Yes,3,Teenager
+Tamil Nadu,Domestic Violence,2012,34,No,10,Adult
+Maharashtra,Robbery,2021,33,Yes,4,Child
+Bihar,Other,2005,31,No,1,Teenager
+Maharashtra,Drugs,2002,17,Yes,3,Child
+Tamil Nadu,Murder,2001,14,Yes,6,Adult
+Karnataka,Fraud,2000,1,Yes,8,Child
+West Bengal,Assault,2022,22,No,8,Senior
+Karnataka,Domestic Violence,2001,15,No,4,Adult
+Maharashtra,Robbery,2009,2,Yes,3,Teenager
+Uttar Pradesh,Domestic Violence,2009,28,No,7,Teenager
+Maharashtra,Robbery,2020,45,Yes,1,Adult
+Kerala,Murder,2009,50,No,3,Adult
+Karnataka,Other,2001,46,Yes,1,Adult
+Uttar Pradesh,Kidnapping,2022,47,No,3,Adult
+Uttar Pradesh,Theft,2001,39,No,5,Teenager
+Maharashtra,Fraud,2002,44,No,7,Child
+Bihar,Fraud,2010,5,No,5,Adult
+Maharashtra,Assault,2008,47,Yes,8,Senior
+Gujarat,Theft,2014,13,No,9,Adult
+Rajasthan,Other,2003,22,No,6,Teenager
+Kerala,Fraud,2003,25,No,3,Adult
+West Bengal,Cybercrime,2006,44,Yes,7,Adult
+Punjab,Drugs,2014,17,No,8,Teenager
+Maharashtra,Domestic Violence,2001,20,No,2,Teenager
+Punjab,Drugs,2022,19,Yes,3,Teenager
+Uttar Pradesh,Kidnapping,2016,39,No,7,Adult
+Uttar Pradesh,Robbery,2011,42,No,8,Senior
+Bihar,Theft,2018,20,No,1,Child
+Bihar,Cybercrime,2000,44,No,3,Teenager
+Karnataka,Kidnapping,2004,11,No,7,Child
+Uttar Pradesh,Kidnapping,2011,49,Yes,10,Teenager
+West Bengal,Assault,2004,40,Yes,10,Child
+Tamil Nadu,Kidnapping,2000,50,No,6,Child
+Gujarat,Assault,2004,12,Yes,6,Child
+Tamil Nadu,Cybercrime,2009,21,No,7,Senior
+Kerala,Other,2014,50,Yes,7,Adult
+Karnataka,Assault,2001,44,No,2,Child
+Gujarat,Theft,2016,25,No,4,Teenager
+West Bengal,Murder,2023,32,No,3,Senior
+Rajasthan,Other,2007,22,Yes,3,Senior
+Bihar,Theft,2003,44,Yes,2,Senior
+Uttar Pradesh,Murder,2015,32,No,4,Teenager
+Gujarat,Robbery,2012,5,No,3,Child
+Tamil Nadu,Other,2002,15,Yes,5,Teenager
+Uttar Pradesh,Other,2004,36,Yes,8,Senior
+Uttar Pradesh,Assault,2018,26,No,9,Teenager
+Gujarat,Assault,2020,9,No,9,Child
+Bihar,Cybercrime,2010,8,Yes,1,Adult
+Maharashtra,Murder,2020,40,Yes,9,Teenager
+Uttar Pradesh,Fraud,2007,6,No,10,Child
+Maharashtra,Assault,2006,9,Yes,3,Teenager
+Uttar Pradesh,Other,2007,15,No,6,Teenager
+Gujarat,Fraud,2008,8,Yes,8,Teenager
+Bihar,Robbery,2010,46,Yes,4,Senior
+Maharashtra,Drugs,2003,37,No,8,Senior
+Punjab,Assault,2023,3,No,8,Child
+Punjab,Theft,2002,30,Yes,10,Child
+Kerala,Other,2008,14,No,8,Adult
+Bihar,Murder,2021,26,No,4,Adult
+Karnataka,Kidnapping,2006,4,Yes,1,Teenager
+Uttar Pradesh,Drugs,2001,38,No,1,Adult
+Uttar Pradesh,Murder,2003,37,No,8,Child
+Bihar,Theft,2021,20,No,9,Teenager
+Bihar,Fraud,2015,7,Yes,2,Teenager
+Punjab,Murder,2013,24,Yes,4,Teenager
+West Bengal,Cybercrime,2017,11,No,3,Teenager
+Gujarat,Fraud,2001,7,No,2,Senior
+Tamil Nadu,Drugs,2009,49,No,9,Child
+Maharashtra,Robbery,2010,43,No,7,Senior
+Tamil Nadu,Fraud,2018,22,No,5,Child
+Uttar Pradesh,Theft,2010,39,Yes,1,Child
+West Bengal,Drugs,2015,33,Yes,1,Child
+West Bengal,Theft,2005,24,No,6,Adult
+Rajasthan,Cybercrime,2010,20,No,4,Child
+Kerala,Fraud,2019,34,No,2,Teenager
+Tamil Nadu,Theft,2008,7,Yes,1,Senior
+Maharashtra,Murder,2000,34,No,5,Senior
+Rajasthan,Murder,2020,27,No,6,Senior
+Rajasthan,Assault,2019,18,Yes,9,Teenager
+Gujarat,Robbery,2002,28,Yes,7,Senior
+Uttar Pradesh,Drugs,2018,11,No,8,Senior
+Uttar Pradesh,Theft,2021,50,No,6,Child
+Bihar,Robbery,2017,48,No,9,Teenager
+Tamil Nadu,Domestic Violence,2003,20,Yes,5,Teenager
+Tamil Nadu,Other,2008,4,No,9,Adult
+Bihar,Other,2004,40,No,7,Adult
+Rajasthan,Robbery,2019,15,No,4,Senior
+Kerala,Theft,2013,31,No,10,Child
+West Bengal,Murder,2009,38,No,7,Teenager
+Gujarat,Cybercrime,2009,20,No,8,Teenager
+Karnataka,Other,2012,13,No,5,Teenager
+Tamil Nadu,Assault,2021,32,No,4,Child
+West Bengal,Drugs,2019,2,No,2,Child
+Rajasthan,Kidnapping,2021,9,No,3,Senior
+Uttar Pradesh,Domestic Violence,2001,14,No,6,Senior
+Maharashtra,Robbery,2022,28,Yes,7,Adult
+Kerala,Theft,2019,43,Yes,1,Adult
+West Bengal,Other,2006,24,No,4,Teenager
+Maharashtra,Theft,2015,45,Yes,2,Teenager
+Kerala,Other,2011,7,No,8,Teenager
+Punjab,Kidnapping,2012,32,Yes,4,Child
+West Bengal,Robbery,2014,31,No,9,Senior
+Tamil Nadu,Other,2011,24,No,6,Teenager
+West Bengal,Assault,2001,30,Yes,4,Teenager
+Bihar,Fraud,2014,33,Yes,10,Teenager
+Gujarat,Assault,2000,46,No,1,Senior
+Kerala,Fraud,2001,13,Yes,7,Teenager
+Uttar Pradesh,Assault,2006,37,No,2,Child
+Kerala,Assault,2023,36,No,9,Adult
+Karnataka,Kidnapping,2018,21,No,2,Teenager
+Kerala,Murder,2008,3,Yes,7,Child
+Punjab,Assault,2015,7,Yes,3,Senior
+Punjab,Kidnapping,2013,13,No,5,Teenager
+Punjab,Other,2003,40,No,4,Adult
+Karnataka,Theft,2001,50,No,6,Adult
+Tamil Nadu,Murder,2009,50,No,1,Child
+Kerala,Kidnapping,2004,45,Yes,8,Adult
+West Bengal,Drugs,2002,44,Yes,8,Adult
+Kerala,Murder,2004,31,No,5,Child
+West Bengal,Robbery,2023,49,Yes,9,Senior
+Tamil Nadu,Theft,2013,26,No,9,Child
+Maharashtra,Kidnapping,2009,25,No,1,Adult
+Gujarat,Theft,2016,10,No,7,Adult
+Tamil Nadu,Robbery,2005,5,No,4,Child
+Gujarat,Fraud,2016,47,No,5,Teenager
+Bihar,Kidnapping,2018,25,Yes,3,Teenager
+Uttar Pradesh,Cybercrime,2002,50,Yes,4,Adult
+Punjab,Robbery,2017,13,Yes,10,Senior
+Kerala,Other,2023,3,No,1,Teenager
+Gujarat,Assault,2020,24,Yes,3,Teenager
+West Bengal,Other,2017,27,No,1,Teenager
+West Bengal,Drugs,2010,12,Yes,9,Teenager
+Karnataka,Assault,2009,33,Yes,4,Adult
+Tamil Nadu,Kidnapping,2016,39,Yes,9,Teenager
+Kerala,Cybercrime,2011,37,Yes,7,Adult
+West Bengal,Domestic Violence,2022,39,No,1,Adult
+Rajasthan,Theft,2018,4,No,8,Child
+West Bengal,Theft,2001,44,No,6,Teenager
+Tamil Nadu,Kidnapping,2015,44,Yes,1,Senior
+Kerala,Fraud,2012,7,No,3,Senior
+Kerala,Assault,2011,7,No,5,Teenager
+Uttar Pradesh,Drugs,2007,30,Yes,6,Teenager
+Maharashtra,Cybercrime,2022,37,Yes,6,Adult
+Rajasthan,Assault,2012,9,Yes,10,Teenager
+Rajasthan,Other,2018,50,No,7,Senior
+Kerala,Fraud,2000,8,Yes,7,Senior
+West Bengal,Robbery,2008,19,No,4,Senior
+Kerala,Robbery,2004,20,No,9,Senior
+Maharashtra,Assault,2004,6,Yes,6,Senior
+Bihar,Domestic Violence,2020,41,No,9,Child
+Tamil Nadu,Fraud,2013,19,No,4,Child
+Karnataka,Kidnapping,2013,38,Yes,3,Senior
+Gujarat,Theft,2016,27,No,3,Adult
+Uttar Pradesh,Drugs,2001,9,No,9,Adult
+Bihar,Cybercrime,2023,44,No,3,Child
+Bihar,Cybercrime,2009,45,Yes,10,Senior
+Bihar,Assault,2007,11,No,4,Teenager
+Rajasthan,Assault,2018,40,No,9,Child
+Punjab,Cybercrime,2020,8,No,8,Child
+Bihar,Cybercrime,2009,25,No,7,Senior
+Gujarat,Drugs,2008,7,Yes,3,Teenager
+Tamil Nadu,Fraud,2001,21,No,4,Adult
+Karnataka,Drugs,2021,27,Yes,6,Child
+Uttar Pradesh,Domestic Violence,2005,1,Yes,2,Senior
+West Bengal,Kidnapping,2022,21,No,7,Senior
+Kerala,Fraud,2012,31,No,2,Senior
+West Bengal,Kidnapping,2021,45,No,6,Child
+Uttar Pradesh,Cybercrime,2018,34,No,3,Child
+Kerala,Domestic Violence,2002,38,No,4,Teenager
+Punjab,Cybercrime,2008,41,No,9,Senior
+Kerala,Assault,2016,3,Yes,8,Adult
+Punjab,Theft,2006,45,Yes,3,Teenager
+West Bengal,,2000,16,No,9,Child
+Rajasthan,Drugs,2003,41,Yes,9,Adult
+Punjab,Murder,2007,35,No,8,Child
+Uttar Pradesh,Domestic Violence,2019,42,No,6,Adult
+Kerala,Cybercrime,2006,8,Yes,3,Child
+Kerala,Robbery,2019,15,Yes,8,Teenager
+Punjab,Cybercrime,2011,36,No,6,Senior
+Gujarat,Assault,2001,40,No,4,Adult
+Bihar,Murder,2007,25,Yes,5,Teenager
+West Bengal,Fraud,2004,2,Yes,8,Teenager
+West Bengal,Fraud,2011,32,Yes,1,Senior
+Gujarat,Cybercrime,2004,7,Yes,7,Adult
+Karnataka,Domestic Violence,2002,28,Yes,7,Teenager
+Maharashtra,Murder,2007,40,No,6,Senior
+Tamil Nadu,Assault,2001,43,Yes,1,Adult
+Bihar,Theft,2017,48,Yes,6,Senior
+Bihar,Murder,2001,43,No,3,Teenager
+Uttar Pradesh,Kidnapping,2018,13,No,5,Adult
+Rajasthan,Other,2006,9,No,10,Senior
+Gujarat,Drugs,2015,10,No,1,Child
+Kerala,Theft,2006,30,No,9,Adult
+West Bengal,Cybercrime,2003,37,Yes,4,Senior
+Kerala,Robbery,2023,16,No,1,Senior
+Uttar Pradesh,Theft,2023,34,No,4,Teenager
+Karnataka,Domestic Violence,2018,43,Yes,10,Senior
+Gujarat,Other,2015,16,Yes,4,Teenager
+Punjab,Fraud,2011,6,Yes,8,Teenager
+Tamil Nadu,Kidnapping,2009,43,Yes,6,Teenager
+Bihar,Fraud,2019,24,No,8,Senior
+Maharashtra,Domestic Violence,2020,24,Yes,6,Adult
+Rajasthan,Kidnapping,2019,9,No,4,Teenager
+Uttar Pradesh,Fraud,2021,18,No,9,Child
+Tamil Nadu,Domestic Violence,2019,13,Yes,2,Child
+Karnataka,Robbery,2005,7,Yes,4,Adult
+Uttar Pradesh,Assault,2000,2,No,9,Senior
+Bihar,Drugs,2013,3,No,2,Teenager
+Punjab,Domestic Violence,2009,26,No,9,Child
+Karnataka,Murder,2004,49,No,3,Adult
+Karnataka,Theft,2005,28,No,9,Teenager
+Uttar Pradesh,Murder,2018,1,No,4,Teenager
+Gujarat,Assault,2010,31,No,1,Senior
+Uttar Pradesh,Theft,2006,15,Yes,10,Child
+Gujarat,Robbery,2023,47,Yes,7,Child
+Uttar Pradesh,Theft,2009,19,Yes,6,Senior
+Maharashtra,Kidnapping,2006,48,No,2,Adult
+Kerala,Robbery,2002,3,Yes,2,Senior
+West Bengal,Theft,2004,13,Yes,5,Adult
+Gujarat,Domestic Violence,2022,28,Yes,9,Adult
+Karnataka,Fraud,2013,21,No,9,Senior
+Karnataka,Domestic Violence,2019,11,No,3,Senior
+Tamil Nadu,Domestic Violence,2014,5,Yes,1,Senior
+Maharashtra,Other,2005,32,Yes,4,Child
+Maharashtra,Kidnapping,2015,5,Yes,8,Child
+Maharashtra,Drugs,2023,18,No,2,Senior
+West Bengal,Murder,2004,18,Yes,4,Teenager
+Kerala,Domestic Violence,2014,21,No,9,Child
+Kerala,Theft,2007,15,No,10,Senior
+Maharashtra,Cybercrime,2008,1,Yes,9,Child
+Bihar,Other,2004,7,Yes,5,Teenager
+Bihar,Theft,2002,3,Yes,2,Senior
+Uttar Pradesh,Drugs,2000,43,No,4,Senior
+Punjab,Murder,2008,24,Yes,3,Teenager
+West Bengal,Murder,2014,24,Yes,2,Senior
+Kerala,Robbery,2018,42,Yes,4,Child
+Gujarat,Kidnapping,2015,21,No,7,Child
+Rajasthan,Assault,2013,18,No,7,Senior
+Uttar Pradesh,Other,2008,7,Yes,10,Teenager
+Kerala,Fraud,2004,27,Yes,6,Child
+Kerala,Drugs,2014,13,Yes,2,Adult
+Kerala,Assault,2021,40,No,8,Child
+Karnataka,Murder,2014,6,No,9,Senior
+Karnataka,Drugs,2015,21,No,4,Child
+West Bengal,Domestic Violence,2016,47,Yes,8,Child
+Bihar,Fraud,2012,22,No,7,Teenager
+Rajasthan,Domestic Violence,2002,48,No,3,Senior
+West Bengal,Drugs,2002,15,Yes,5,Adult
+West Bengal,Domestic Violence,2019,3,No,5,Child
+Kerala,Drugs,2018,35,Yes,10,Teenager
+Karnataka,Other,2006,38,No,8,Teenager
+Gujarat,Murder,2017,17,Yes,4,Child
+Kerala,Murder,2008,23,Yes,9,Child
+Kerala,Theft,2006,2,No,6,Teenager
+Rajasthan,Murder,2000,13,No,8,Adult
+Gujarat,Drugs,2001,39,No,4,Child
+Gujarat,Fraud,2018,18,No,6,Adult
+Uttar Pradesh,Drugs,2014,5,Yes,5,Adult
+Uttar Pradesh,Robbery,2001,14,Yes,3,Adult
+Karnataka,Other,2007,45,No,4,Child
+Gujarat,Other,2016,45,Yes,4,Teenager
+Bihar,Other,2008,26,Yes,2,Teenager
+Gujarat,Murder,2009,28,Yes,9,Adult
+Maharashtra,Theft,2018,13,Yes,6,Child
+Rajasthan,Kidnapping,2001,39,Yes,6,Teenager
+West Bengal,Cybercrime,2011,37,Yes,1,Child
+Punjab,Assault,2014,28,Yes,3,Adult
+Karnataka,Other,2022,44,No,2,Adult
+Gujarat,Kidnapping,2014,41,No,6,Senior
+Gujarat,Kidnapping,2002,31,Yes,8,Teenager
+Rajasthan,Assault,2018,4,Yes,5,Teenager
+Gujarat,Domestic Violence,2015,49,Yes,8,Child
+West Bengal,Theft,2018,12,Yes,1,Child
+Bihar,Theft,2003,12,Yes,7,Teenager
+Punjab,Robbery,2018,25,No,7,Child
+Kerala,Murder,2010,24,Yes,7,Senior
+Tamil Nadu,Assault,2018,8,No,6,Child
+Bihar,Kidnapping,2018,17,No,9,Senior
+Punjab,Robbery,2006,16,No,3,Senior
+Maharashtra,Drugs,2022,7,Yes,6,Adult
+Karnataka,Kidnapping,2001,19,Yes,10,Adult
+Gujarat,Drugs,2008,34,No,1,Senior
+Punjab,Fraud,2002,6,Yes,10,Adult
+Gujarat,Cybercrime,2003,5,Yes,7,Adult
+Bihar,Assault,2020,7,Yes,9,Adult
+Kerala,Other,2002,15,No,6,Child
+Bihar,Theft,2002,11,Yes,9,Child
+Gujarat,Other,2003,8,Yes,1,Adult
+Rajasthan,Fraud,2009,42,No,9,Teenager
+Rajasthan,Murder,2008,16,Yes,9,Senior
+Uttar Pradesh,Assault,2002,37,No,3,Senior
+Bihar,Kidnapping,2014,18,Yes,6,Teenager
+Tamil Nadu,Cybercrime,2006,41,Yes,1,Teenager
+Rajasthan,Murder,2017,29,No,2,Child
+Rajasthan,Drugs,2010,31,Yes,4,Child
+Kerala,Domestic Violence,2001,43,No,2,Teenager
+Tamil Nadu,Assault,2000,26,No,6,Adult
+Punjab,Domestic Violence,2015,50,No,8,Senior
+Tamil Nadu,Theft,2001,24,No,6,Senior
+Kerala,Drugs,2019,15,Yes,2,Adult
+Tamil Nadu,Other,2018,8,Yes,10,Adult
+Gujarat,Domestic Violence,2021,32,Yes,9,Adult
+Karnataka,Kidnapping,2013,18,No,5,Senior
+Uttar Pradesh,Fraud,2011,40,No,10,Teenager
+Uttar Pradesh,Theft,2011,21,No,3,Child
+Uttar Pradesh,Other,2020,15,Yes,6,Adult
+Karnataka,Other,2008,40,Yes,10,Adult
+Maharashtra,Other,2023,10,Yes,7,Senior
+Gujarat,Assault,2003,46,No,2,Adult
+Rajasthan,Domestic Violence,2018,22,No,3,Child
+Gujarat,Robbery,2002,27,Yes,6,Senior
+Bihar,Other,2010,7,Yes,7,Teenager
+Kerala,Kidnapping,2016,46,No,5,Teenager
+Punjab,Robbery,2016,42,Yes,3,Senior
+Uttar Pradesh,Kidnapping,2002,23,Yes,1,Child
+West Bengal,Cybercrime,2015,23,No,9,Senior
+Rajasthan,Other,2022,47,Yes,9,Child
+Tamil Nadu,Other,2002,21,No,8,Teenager
+Karnataka,Fraud,2002,49,Yes,4,Senior
+Bihar,Fraud,2016,40,No,2,Child
+West Bengal,Domestic Violence,2018,10,Yes,9,Teenager
+Gujarat,Assault,2008,46,Yes,2,Adult
+West Bengal,Other,2016,26,Yes,10,Senior
+Uttar Pradesh,Robbery,2023,3,Yes,8,Teenager
+Maharashtra,Fraud,2010,7,No,4,Child
+Punjab,Theft,2008,46,No,2,Senior
+Maharashtra,Cybercrime,2006,1,Yes,3,Adult
+Rajasthan,Domestic Violence,2023,3,No,4,Senior
+Maharashtra,Robbery,2000,28,Yes,7,Child
+Uttar Pradesh,Robbery,2008,6,No,6,Child
+Rajasthan,Cybercrime,2002,17,Yes,7,Senior
+Bihar,Drugs,2022,39,Yes,1,Adult
+Bihar,Kidnapping,2023,28,No,4,Senior
+Karnataka,Cybercrime,2019,47,No,4,Adult
+Gujarat,Fraud,2012,22,Yes,1,Child
+Uttar Pradesh,Other,2002,32,Yes,4,Adult
+Tamil Nadu,Fraud,2008,19,Yes,6,Teenager
+Punjab,Kidnapping,2007,8,No,7,Senior
+Punjab,Kidnapping,2021,45,No,3,Teenager
+Karnataka,Murder,2018,31,No,8,Teenager
+Rajasthan,Kidnapping,2017,44,Yes,2,Child
+Gujarat,Other,2012,29,Yes,5,Adult
+Maharashtra,Drugs,2016,42,No,10,Adult
+West Bengal,Fraud,2021,34,Yes,6,Senior
+Uttar Pradesh,Fraud,2017,48,No,9,Adult
+Karnataka,Theft,2012,43,No,6,Senior
+Maharashtra,Murder,2005,44,Yes,5,Teenager
+Punjab,Domestic Violence,2023,45,Yes,1,Child
+Karnataka,Cybercrime,2014,50,No,6,Senior
+Karnataka,Other,2020,49,No,9,Senior
+Uttar Pradesh,Robbery,2014,10,No,1,Adult
+West Bengal,Assault,2023,22,Yes,5,Teenager
+Karnataka,Domestic Violence,2003,48,No,7,Teenager
+Gujarat,Fraud,2007,41,Yes,10,Teenager
+Tamil Nadu,Cybercrime,2015,17,No,10,Senior
+Rajasthan,Assault,2008,32,No,4,Child
+Karnataka,Drugs,2023,38,No,7,Teenager
+Karnataka,Drugs,2014,2,Yes,3,Adult
+Rajasthan,Other,2011,6,No,2,Child
+Uttar Pradesh,Fraud,2013,24,Yes,4,Teenager
+Kerala,Fraud,2015,22,Yes,4,Child
+Karnataka,Other,2004,24,No,7,Senior
+Uttar Pradesh,Domestic Violence,2008,21,Yes,3,Adult
+Punjab,Murder,2007,47,No,1,Senior
+Bihar,Murder,2002,44,No,2,Child
+Bihar,Kidnapping,2015,41,Yes,2,Adult
+Tamil Nadu,Drugs,2004,27,Yes,10,Teenager
+Punjab,Other,2002,38,No,9,Teenager
+Rajasthan,Other,2022,11,No,6,Teenager
+Uttar Pradesh,Other,2021,44,Yes,4,Teenager
+Kerala,Robbery,2018,14,No,4,Teenager
+Rajasthan,Drugs,2000,9,Yes,4,Senior
+Maharashtra,Fraud,2005,35,Yes,5,Child
+Punjab,Robbery,2023,21,Yes,5,Adult
+Gujarat,Theft,2021,49,No,1,Adult
+West Bengal,Cybercrime,2022,23,No,8,Teenager
+Rajasthan,Robbery,2011,48,Yes,3,Teenager
+Kerala,Other,2004,18,Yes,2,Senior
+Gujarat,Murder,2012,2,Yes,3,Adult
+Uttar Pradesh,Kidnapping,2009,48,Yes,1,Senior
+Gujarat,Murder,2018,46,Yes,3,Child
+West Bengal,Murder,2011,26,No,8,Senior
+Gujarat,Domestic Violence,2004,24,Yes,6,Child
+Bihar,Robbery,2008,48,Yes,2,Teenager
+Gujarat,Assault,2017,43,No,7,Child
+Rajasthan,Domestic Violence,2010,2,No,9,Adult
+Kerala,Robbery,2015,40,Yes,9,Senior
+West Bengal,Assault,2022,4,No,6,Senior
+Gujarat,Theft,2002,30,No,2,Teenager
+Karnataka,Other,2020,46,No,4,Adult
+Bihar,Theft,2004,38,Yes,1,Child
+Uttar Pradesh,Murder,2015,32,Yes,3,Adult
+Karnataka,Drugs,2003,23,No,1,Teenager
+West Bengal,Cybercrime,2001,25,No,4,Adult
+West Bengal,Cybercrime,2018,33,Yes,3,Child
+Gujarat,Robbery,2000,49,Yes,1,Senior
+Gujarat,Theft,2021,50,Yes,2,Senior
+Bihar,Robbery,2004,26,Yes,7,Child
+Karnataka,Kidnapping,2014,5,No,8,Senior
+Kerala,Robbery,2022,37,Yes,2,Teenager
+Kerala,Fraud,2005,21,No,8,Child
+Gujarat,Domestic Violence,2012,33,Yes,8,Adult
+Bihar,Drugs,2018,43,No,2,Senior
+Tamil Nadu,Cybercrime,2003,29,No,9,Adult
+Bihar,Cybercrime,2019,31,No,5,Teenager
+Gujarat,Drugs,2011,38,No,2,Child
+Rajasthan,Theft,2011,18,No,5,Adult
+Bihar,Fraud,2023,19,No,4,Senior
+Bihar,Murder,2000,8,Yes,8,Adult
+Bihar,Cybercrime,2001,27,Yes,10,Adult
+Uttar Pradesh,Other,2022,50,Yes,6,Senior
+Uttar Pradesh,Cybercrime,2017,18,No,6,Child
+Tamil Nadu,Kidnapping,2009,27,Yes,4,Child
+Kerala,Cybercrime,2020,6,Yes,6,Teenager
+Punjab,Murder,2022,38,Yes,8,Teenager
+Punjab,Drugs,2000,1,Yes,9,Senior
+Punjab,Assault,2009,22,Yes,3,Child
+Gujarat,Cybercrime,2002,23,No,9,Teenager
+Bihar,Cybercrime,2018,48,No,5,Child
+Gujarat,Domestic Violence,2020,1,Yes,7,Teenager
+West Bengal,Robbery,2010,13,Yes,9,Teenager
+Uttar Pradesh,Murder,2008,22,No,9,Teenager
+Gujarat,Fraud,2002,23,No,8,Teenager
+West Bengal,Murder,2023,36,No,1,Adult
+Kerala,Other,2013,2,No,1,Adult
+Karnataka,Robbery,2008,39,No,5,Teenager
+Bihar,Fraud,2017,40,No,2,Adult
+Maharashtra,Drugs,2021,44,No,2,Child
+West Bengal,Theft,2011,6,No,8,Child
+Karnataka,Fraud,2016,21,No,6,Adult
+Tamil Nadu,Assault,2018,4,Yes,5,Child
+Kerala,Kidnapping,2008,18,Yes,7,Adult
+Rajasthan,Drugs,2019,28,No,3,Adult
+Gujarat,Fraud,2006,48,Yes,9,Adult
+Gujarat,Domestic Violence,2009,47,Yes,6,Teenager
+Tamil Nadu,Domestic Violence,2021,9,Yes,3,Adult
+West Bengal,Cybercrime,2005,42,No,9,Teenager
+Punjab,Theft,2004,10,No,6,Adult
+Punjab,Kidnapping,2002,10,No,7,Child
+West Bengal,Assault,2023,45,Yes,2,Child
+Tamil Nadu,Domestic Violence,2014,17,No,1,Child
+Tamil Nadu,Assault,2008,24,No,10,Adult
+Punjab,Other,2019,6,Yes,2,Teenager
+Uttar Pradesh,Fraud,2014,9,No,1,Adult
+Tamil Nadu,Other,2020,30,Yes,7,Child
+Maharashtra,Cybercrime,2010,9,No,3,Teenager
+Gujarat,Robbery,2021,35,Yes,7,Teenager
+Bihar,Assault,2020,21,No,3,Senior
+Gujarat,Cybercrime,2005,44,Yes,6,Child
+Maharashtra,Cybercrime,2019,5,No,1,Child
+Bihar,Fraud,2011,41,Yes,9,Senior
+Tamil Nadu,Theft,2014,6,Yes,8,Adult
+Tamil Nadu,Other,2019,42,No,4,Child
+Punjab,Kidnapping,2011,2,No,2,Teenager
+Punjab,Fraud,2006,43,No,2,Teenager
+Karnataka,Murder,2012,7,Yes,5,Adult
+Rajasthan,Assault,2007,11,Yes,4,Senior
+Rajasthan,Fraud,2000,45,No,10,Child
+Tamil Nadu,Theft,2023,4,Yes,6,Adult
+Rajasthan,Other,2013,47,Yes,1,Senior
+Kerala,Other,2005,1,No,5,Child
+Uttar Pradesh,Murder,2008,35,Yes,7,Child
+West Bengal,Theft,2009,38,No,2,Senior
+Punjab,Drugs,2019,45,No,7,Senior
+Uttar Pradesh,Robbery,2013,24,No,10,Adult
+Tamil Nadu,Robbery,2000,17,Yes,6,Child
+Kerala,Fraud,2000,17,Yes,8,Teenager
+Punjab,Theft,2010,10,No,1,Child
+Gujarat,Murder,2017,14,Yes,4,Teenager
+Bihar,Other,2011,6,No,1,Teenager
+Karnataka,Fraud,2011,31,Yes,4,Senior
+West Bengal,Assault,2022,41,No,8,Teenager
+Bihar,Assault,2018,14,No,1,Senior
+Gujarat,Assault,2018,45,Yes,5,Senior
+Karnataka,Assault,2023,37,No,7,Teenager
+Rajasthan,Drugs,2004,3,No,1,Adult
+West Bengal,Assault,2004,28,Yes,9,Child
+Karnataka,Theft,2010,28,No,4,Child
+Uttar Pradesh,Other,2021,23,No,9,Teenager
+Gujarat,Domestic Violence,2016,3,Yes,9,Adult
+Maharashtra,Kidnapping,2000,28,Yes,9,Senior
+Kerala,Theft,2005,23,Yes,10,Teenager
+Uttar Pradesh,Theft,2010,33,Yes,8,Adult
+Uttar Pradesh,Murder,2023,33,Yes,4,Senior
+Rajasthan,Other,2020,13,No,3,Adult
+West Bengal,Theft,2006,18,No,8,Child
+Kerala,Assault,2020,2,No,10,Adult
+Karnataka,Domestic Violence,2002,2,Yes,2,Adult
+Gujarat,Other,2023,46,Yes,3,Adult
+Bihar,Other,2007,28,Yes,1,Child
+Gujarat,Kidnapping,2017,41,Yes,6,Adult
+Bihar,Drugs,2002,49,Yes,7,Teenager
+West Bengal,Fraud,2015,47,No,9,Teenager
+Kerala,Kidnapping,2005,33,No,5,Adult
+Kerala,Cybercrime,2023,38,No,10,Child
+Punjab,Robbery,2004,29,Yes,4,Child
+Gujarat,Kidnapping,2013,35,Yes,8,Adult
+Gujarat,Fraud,2020,2,Yes,1,Child
+West Bengal,Murder,2002,12,No,4,Child
+Karnataka,Domestic Violence,2003,25,Yes,7,Teenager
+Uttar Pradesh,Domestic Violence,2012,24,Yes,6,Adult
+Bihar,Kidnapping,2022,36,Yes,2,Teenager
+Kerala,Cybercrime,2006,47,Yes,1,Child
+West Bengal,Drugs,2002,44,No,1,Teenager
+Maharashtra,Theft,2004,42,No,5,Teenager
+Kerala,Domestic Violence,2016,1,No,5,Adult
+Karnataka,Robbery,2009,16,Yes,4,Senior
+Bihar,Murder,2011,50,No,5,Adult
+Maharashtra,Other,2007,10,No,7,Senior
+Uttar Pradesh,Theft,2011,10,Yes,6,Teenager
+Karnataka,Assault,2007,31,Yes,4,Child
+Uttar Pradesh,Robbery,2016,9,No,10,Adult
+Kerala,Other,2013,5,No,10,Adult
+Maharashtra,Drugs,2015,33,Yes,5,Senior
+Bihar,Other,2001,6,Yes,3,Senior
+Kerala,Cybercrime,2021,6,Yes,8,Teenager
+Rajasthan,Fraud,2007,20,Yes,6,Adult
+Maharashtra,Theft,2016,26,Yes,2,Adult
+Kerala,Domestic Violence,2020,46,Yes,3,Adult
+Tamil Nadu,Domestic Violence,2006,24,Yes,2,Child
+Bihar,Murder,2012,47,No,3,Senior
+West Bengal,Assault,2001,19,Yes,1,Child
+Kerala,Fraud,2000,39,No,1,Child
+Tamil Nadu,Kidnapping,2021,26,No,4,Senior
+Punjab,Domestic Violence,2012,29,Yes,4,Child
+Punjab,Other,2007,1,No,5,Teenager
+Punjab,Domestic Violence,2015,14,Yes,5,Adult
+Rajasthan,Fraud,2004,9,Yes,1,Child
+Tamil Nadu,Assault,2009,5,Yes,1,Adult
+Bihar,Fraud,2002,36,Yes,1,Teenager
+Karnataka,Domestic Violence,2014,47,Yes,6,Child
+Rajasthan,Kidnapping,2006,22,No,4,Teenager
+West Bengal,Other,2013,2,No,3,Adult
+Maharashtra,Cybercrime,2000,18,No,10,Teenager
+Maharashtra,Theft,2004,36,Yes,1,Senior
+Uttar Pradesh,Other,2001,45,No,7,Child
+Tamil Nadu,Other,2001,4,No,2,Senior
+Uttar Pradesh,Drugs,2016,5,No,1,Senior
+Uttar Pradesh,Robbery,2006,31,No,3,Child
+Kerala,Domestic Violence,2007,2,Yes,2,Teenager
+Bihar,Other,2021,2,Yes,9,Child
+Bihar,Kidnapping,2000,22,Yes,3,Senior
+Bihar,Theft,2016,2,No,7,Adult
+Tamil Nadu,Drugs,2009,5,Yes,5,Adult
+Bihar,Murder,2008,42,No,10,Senior
+West Bengal,Fraud,2007,50,Yes,6,Adult
+Tamil Nadu,Robbery,2015,11,Yes,9,Child
+Punjab,Domestic Violence,2001,41,Yes,5,Senior
+Kerala,Theft,2000,9,No,1,Senior
+Rajasthan,Domestic Violence,2015,21,Yes,3,Adult
+Punjab,Assault,2007,44,No,8,Child
+Uttar Pradesh,Other,2011,11,Yes,1,Teenager
+Kerala,Other,2019,30,No,3,Senior
+Karnataka,Theft,2009,29,Yes,4,Child
+Gujarat,Drugs,2014,34,No,10,Senior
+Tamil Nadu,Kidnapping,2015,34,Yes,5,Senior
+West Bengal,Assault,2019,37,No,1,Senior
+Tamil Nadu,Fraud,2003,43,Yes,2,Teenager
+Maharashtra,Other,2006,14,No,3,Adult
+West Bengal,Fraud,2004,28,Yes,4,Adult
+Bihar,Fraud,2001,16,Yes,2,Child
+Bihar,Assault,2022,4,No,3,Teenager
+Maharashtra,Murder,2023,18,Yes,6,Senior
+Punjab,Other,2000,41,No,10,Teenager
+Tamil Nadu,Cybercrime,2006,30,Yes,2,Child
+Karnataka,Murder,2007,39,No,2,Senior
+Bihar,Murder,2022,5,Yes,7,Adult
+Maharashtra,Assault,2021,40,Yes,2,Senior
+Kerala,Robbery,2019,6,Yes,3,Teenager
+Maharashtra,Drugs,2012,24,No,9,Adult
+Bihar,Robbery,2000,22,No,9,Senior
+Gujarat,Fraud,2018,24,No,8,Adult
+Tamil Nadu,Fraud,2011,8,Yes,3,Teenager
+Tamil Nadu,Assault,2003,48,No,4,Senior
+Uttar Pradesh,Kidnapping,2019,24,No,5,Senior
+Rajasthan,Domestic Violence,2015,43,No,7,Adult
+Kerala,Theft,2006,47,Yes,1,Senior
+Gujarat,Assault,2000,15,Yes,5,Adult
+Uttar Pradesh,Other,2010,47,Yes,8,Child
+Kerala,Theft,2019,11,Yes,7,Senior
+Tamil Nadu,Other,2008,37,No,10,Senior
+Karnataka,Robbery,2017,6,Yes,6,Senior
+West Bengal,Domestic Violence,2015,20,Yes,7,Senior
+Bihar,Domestic Violence,2020,15,Yes,7,Teenager
+Gujarat,Kidnapping,2007,3,Yes,8,Child
+Maharashtra,Cybercrime,2015,31,Yes,1,Adult
+Uttar Pradesh,Other,2006,26,Yes,5,Child
+Maharashtra,Robbery,2002,17,No,2,Senior
+Kerala,Other,2009,1,No,8,Teenager
+West Bengal,Murder,2013,23,No,6,Teenager
+Karnataka,Fraud,2003,32,No,9,Adult
+Bihar,Kidnapping,2020,16,No,6,Child
+West Bengal,Drugs,2014,31,Yes,10,Child
+Tamil Nadu,Kidnapping,2023,43,Yes,6,Senior
+Bihar,Domestic Violence,2016,1,No,8,Senior
+West Bengal,Kidnapping,2007,39,No,6,Senior
+Bihar,Murder,2016,11,Yes,2,Adult
+Rajasthan,Drugs,2021,25,Yes,5,Adult
+Tamil Nadu,Cybercrime,2002,12,Yes,3,Adult
+Tamil Nadu,Robbery,2019,23,Yes,1,Adult
+Uttar Pradesh,Murder,2002,32,No,7,Teenager
+Uttar Pradesh,Fraud,2012,12,No,8,Teenager
+Gujarat,Cybercrime,2010,12,Yes,10,Adult
+Karnataka,Fraud,2002,40,No,9,Adult
+Maharashtra,Domestic Violence,2005,11,Yes,9,Senior
+Bihar,Other,2001,35,No,10,Adult
+Maharashtra,Kidnapping,2018,2,No,3,Teenager
+Karnataka,Robbery,2003,24,Yes,4,Teenager
+Kerala,Cybercrime,2023,17,Yes,2,Child
+Uttar Pradesh,Theft,2010,30,Yes,6,Senior
+Rajasthan,Kidnapping,2011,23,No,5,Child
+Kerala,Kidnapping,2014,10,Yes,9,Child
+Kerala,Drugs,2010,28,Yes,7,Child
+Uttar Pradesh,Other,2001,12,No,7,Child
+Bihar,Cybercrime,2001,24,Yes,10,Adult
+West Bengal,Other,2013,37,No,4,Child
+Tamil Nadu,Kidnapping,2010,9,Yes,7,Senior
+Gujarat,Fraud,2022,16,Yes,8,Child
+Bihar,Fraud,2003,15,Yes,1,Adult
+Maharashtra,Fraud,2005,15,Yes,1,Child
+Kerala,Murder,2014,5,Yes,9,Child
+Uttar Pradesh,Kidnapping,2017,43,No,4,Adult
+Rajasthan,Theft,2002,35,Yes,9,Adult
+Kerala,Theft,2017,45,Yes,7,Child
+Gujarat,Assault,2005,21,Yes,7,Adult
+Maharashtra,Fraud,2005,6,No,3,Child
+Gujarat,Other,2009,4,Yes,7,Senior
+Maharashtra,Cybercrime,2021,27,No,4,Senior
+Karnataka,Other,2008,19,No,7,Adult
+Karnataka,Kidnapping,2006,18,Yes,3,Child
+Punjab,Other,2008,44,No,2,Adult
+Punjab,Cybercrime,2019,10,Yes,3,Adult
+Gujarat,Theft,2003,10,No,6,Teenager
+Maharashtra,Drugs,2005,4,Yes,1,Senior
+Punjab,Fraud,2020,14,No,8,Teenager
+Kerala,Domestic Violence,2007,3,No,3,Senior
+Karnataka,Drugs,2017,36,No,7,Child
+Rajasthan,Theft,2022,47,Yes,7,Teenager
+Bihar,Robbery,2001,5,No,5,Adult
+Karnataka,Cybercrime,2020,47,Yes,5,Teenager
+Maharashtra,Murder,2014,40,Yes,1,Teenager
+Rajasthan,Domestic Violence,2003,14,No,10,Adult
+Bihar,Fraud,2012,45,No,7,Child
+West Bengal,Robbery,2011,14,No,6,Adult
+Maharashtra,Fraud,2023,19,Yes,3,Senior
+West Bengal,Robbery,2014,34,Yes,3,Teenager
+Kerala,Assault,2005,27,No,2,Teenager
+West Bengal,Robbery,2013,42,No,9,Child
+Maharashtra,Murder,2007,7,No,6,Child
+Tamil Nadu,Fraud,2018,28,Yes,5,Child
+Gujarat,Drugs,2012,22,Yes,6,Adult
+Rajasthan,Kidnapping,2002,22,Yes,3,Senior
+Karnataka,Theft,2007,13,Yes,6,Senior
+West Bengal,Assault,2012,4,Yes,7,Teenager
+Karnataka,Other,2013,1,No,1,Adult
+Bihar,Cybercrime,2009,31,Yes,2,Adult
+Bihar,Drugs,2014,4,No,9,Senior
+Maharashtra,Robbery,2016,49,No,7,Teenager
+Punjab,Robbery,2003,40,Yes,9,Child
+Punjab,Cybercrime,2020,49,No,5,Child
+West Bengal,Drugs,2002,15,Yes,4,Senior
+West Bengal,Kidnapping,2019,39,No,1,Senior
+Uttar Pradesh,Fraud,2012,26,Yes,8,Adult
+Bihar,Robbery,2023,4,No,5,Child
+Bihar,Fraud,2001,38,No,6,Teenager
+Tamil Nadu,Robbery,2007,3,No,4,Adult
+Kerala,Fraud,2019,25,Yes,5,Child
+Gujarat,Fraud,2013,33,Yes,5,Child
+Uttar Pradesh,Theft,2020,39,Yes,6,Child
+Gujarat,Cybercrime,2007,21,Yes,6,Senior
+Maharashtra,Domestic Violence,2019,33,Yes,1,Senior
+West Bengal,Domestic Violence,2007,45,No,3,Senior
+West Bengal,Robbery,2010,45,Yes,3,Adult
+West Bengal,Murder,2000,25,No,3,Child
+Tamil Nadu,Assault,2007,25,No,8,Child
+Kerala,Drugs,2018,41,Yes,10,Senior
+Karnataka,Other,2009,26,No,6,Child
+Rajasthan,Theft,2016,3,Yes,5,Senior
+Tamil Nadu,Assault,2023,5,Yes,3,Senior
+Maharashtra,Kidnapping,2004,13,No,5,Senior
+Rajasthan,Robbery,2019,19,Yes,5,Adult
+Maharashtra,Fraud,2015,24,Yes,5,Adult
+Kerala,Domestic Violence,2009,41,Yes,6,Teenager
+Karnataka,Other,2023,19,Yes,6,Teenager
+Bihar,Assault,2023,50,Yes,4,Child
+Gujarat,Domestic Violence,2009,28,Yes,7,Child
+Bihar,Assault,2016,35,No,7,Child
+Kerala,Drugs,2022,41,No,5,Adult
+Punjab,Kidnapping,2005,17,No,9,Adult
+Gujarat,Fraud,2008,17,Yes,7,Adult
+West Bengal,Kidnapping,2021,4,Yes,8,Adult
+Gujarat,Theft,2023,3,Yes,5,Senior
+West Bengal,Kidnapping,2002,13,Yes,2,Senior
+Maharashtra,Assault,2012,40,No,7,Adult
+Rajasthan,Domestic Violence,2014,45,Yes,1,Senior
+Punjab,Kidnapping,2005,31,Yes,9,Adult
+Bihar,Theft,2012,33,Yes,8,Senior
+Tamil Nadu,Assault,2016,20,No,7,Teenager
+Uttar Pradesh,Robbery,2018,45,No,2,Child
+Uttar Pradesh,Drugs,2006,7,No,3,Senior
+Bihar,Domestic Violence,2018,15,No,1,Senior
+Rajasthan,Murder,2009,16,No,1,Child
+Kerala,Kidnapping,2003,14,Yes,2,Senior
+Tamil Nadu,Fraud,2019,37,No,7,Adult
+Uttar Pradesh,Drugs,2012,5,No,5,Adult
+Uttar Pradesh,Fraud,2014,14,No,8,Senior
+Bihar,Fraud,2002,29,No,10,Child
+Punjab,Other,2008,19,No,10,Senior
+Kerala,Fraud,2016,18,Yes,1,Adult
+Karnataka,Domestic Violence,2017,8,Yes,4,Teenager
+West Bengal,Domestic Violence,2021,15,No,2,Senior
+Uttar Pradesh,Murder,2021,14,Yes,3,Teenager
+Karnataka,Cybercrime,2019,30,Yes,2,Teenager
+Gujarat,Drugs,2013,20,No,9,Senior
+Tamil Nadu,Robbery,2016,26,No,5,Child
+West Bengal,Robbery,2005,10,No,8,Teenager
+Maharashtra,Murder,2018,11,Yes,2,Teenager
+West Bengal,Fraud,2011,12,Yes,10,Senior
+Rajasthan,Cybercrime,2005,33,Yes,5,Teenager
+Kerala,Drugs,2020,41,Yes,6,Teenager
+Rajasthan,Cybercrime,2017,49,Yes,10,Adult
+West Bengal,Drugs,2007,42,No,4,Senior
+Karnataka,Robbery,2022,39,No,6,Senior
+Rajasthan,Assault,2001,22,No,3,Teenager
+Gujarat,Assault,2000,6,No,7,Teenager
+Punjab,Fraud,2004,25,Yes,9,Adult
+Bihar,Theft,2022,13,Yes,8,Child
+Kerala,Drugs,2011,20,No,8,Child
+Kerala,Robbery,2002,32,Yes,8,Child
+Kerala,Murder,2008,18,Yes,2,Child
+Kerala,Murder,2006,34,Yes,6,Senior
+Karnataka,Kidnapping,2007,5,No,10,Senior
+Tamil Nadu,Cybercrime,2015,46,Yes,2,Senior
+Tamil Nadu,Other,2023,13,Yes,5,Teenager
+Punjab,Other,2013,37,Yes,5,Teenager
+Tamil Nadu,Domestic Violence,2009,14,Yes,7,Teenager
+West Bengal,Kidnapping,2013,7,No,5,Adult
+West Bengal,Robbery,2003,41,No,10,Senior
+West Bengal,Drugs,2001,4,Yes,3,Senior
+West Bengal,Kidnapping,2013,7,No,6,Adult
+West Bengal,Theft,2017,20,Yes,4,Teenager
+Tamil Nadu,Robbery,2014,6,No,2,Senior
+West Bengal,Fraud,2020,35,Yes,9,Teenager
+Kerala,Drugs,2017,26,No,4,Senior
+Maharashtra,Kidnapping,2004,45,No,2,Teenager
+Maharashtra,Domestic Violence,2016,48,No,6,Child
+Gujarat,Theft,2021,7,No,9,Teenager
+Maharashtra,Robbery,2022,25,No,2,Senior
+Karnataka,Cybercrime,2022,34,Yes,5,Teenager
+Tamil Nadu,Murder,2010,2,Yes,1,Adult
+Maharashtra,Cybercrime,2022,9,No,8,Teenager
+Karnataka,Cybercrime,2015,26,No,10,Senior
+West Bengal,Other,2004,24,No,6,Teenager
+West Bengal,Fraud,2022,38,No,8,Adult
+Karnataka,Murder,2016,28,Yes,2,Teenager
+Kerala,Domestic Violence,2021,46,Yes,2,Senior
+Maharashtra,Other,2009,2,No,9,Adult
+Bihar,Murder,2020,19,No,6,Teenager
+Kerala,Drugs,2004,49,Yes,4,Adult
+Bihar,Theft,2013,40,No,7,Teenager
+Kerala,Murder,2003,34,No,2,Teenager
+Karnataka,Robbery,2017,48,No,3,Teenager
+Uttar Pradesh,Robbery,2002,36,No,2,Teenager
+Maharashtra,Robbery,2006,16,No,2,Teenager
+Uttar Pradesh,Kidnapping,2012,17,No,10,Child
+Tamil Nadu,Theft,2006,28,No,7,Child
+Uttar Pradesh,Drugs,2018,31,Yes,10,Senior
+Tamil Nadu,Fraud,2014,27,No,10,Adult
+Uttar Pradesh,Cybercrime,2005,49,No,8,Adult
+West Bengal,Fraud,2002,29,Yes,9,Senior
+Gujarat,Murder,2016,31,No,2,Child
+Rajasthan,Domestic Violence,2016,2,No,8,Child
+Karnataka,Assault,2012,24,No,2,Teenager
+West Bengal,Cybercrime,2015,2,Yes,8,Senior
+Uttar Pradesh,Theft,2002,4,No,9,Teenager
+West Bengal,Robbery,2012,50,Yes,6,Adult
+Bihar,Murder,2015,47,No,6,Child
+Maharashtra,Drugs,2007,50,Yes,7,Child
+Uttar Pradesh,Domestic Violence,2005,26,No,9,Child
+West Bengal,Robbery,2020,37,Yes,10,Adult
+Gujarat,Murder,2021,48,No,7,Child
+Punjab,Fraud,2003,7,No,9,Child
+Rajasthan,Cybercrime,2003,42,Yes,2,Child
+Punjab,Fraud,2018,5,Yes,4,Senior
+Kerala,Domestic Violence,2001,47,Yes,10,Teenager
+Bihar,Other,2009,19,Yes,4,Child
+Gujarat,Murder,2002,29,No,1,Child
+Bihar,Murder,2021,24,Yes,1,Child
+Punjab,Other,2012,37,No,9,Child
+Karnataka,Theft,2018,11,Yes,8,Child
+Tamil Nadu,Fraud,2009,14,No,7,Adult
+Karnataka,Robbery,2014,28,Yes,9,Teenager
+Gujarat,Drugs,2020,2,No,6,Child
+Tamil Nadu,Cybercrime,2001,17,No,2,Teenager
+Uttar Pradesh,Kidnapping,2001,21,Yes,4,Senior
+Kerala,Assault,2022,16,Yes,4,Teenager
+West Bengal,Other,2014,22,Yes,10,Senior
+Karnataka,Kidnapping,2022,18,No,3,Teenager
+Kerala,Fraud,2001,6,No,10,Adult
+Bihar,Drugs,2019,27,No,5,Teenager
+Rajasthan,Robbery,2011,36,No,1,Teenager
+Bihar,Fraud,2003,45,No,10,Adult
+Gujarat,Drugs,2019,41,No,8,Senior
+Tamil Nadu,Murder,2002,21,No,2,Senior
+Tamil Nadu,Other,2010,17,Yes,7,Child
+Kerala,Drugs,2002,16,No,6,Adult
+Bihar,Theft,2006,34,No,2,Teenager
+Karnataka,Murder,2015,12,Yes,10,Senior
+Maharashtra,Theft,2015,1,Yes,3,Adult
+Uttar Pradesh,Cybercrime,2019,23,No,7,Child
+Maharashtra,Kidnapping,2017,24,Yes,8,Teenager
+Gujarat,Domestic Violence,2002,40,Yes,9,Teenager
+Maharashtra,Other,2002,21,No,4,Adult
+Tamil Nadu,Domestic Violence,2009,42,No,8,Adult
+Bihar,Robbery,2001,24,Yes,10,Teenager
+Tamil Nadu,Murder,2011,44,No,2,Teenager
+Uttar Pradesh,Assault,2015,40,No,1,Child
+Maharashtra,Robbery,2013,15,No,2,Teenager
+Uttar Pradesh,Other,2003,2,Yes,9,Adult
+Bihar,Cybercrime,2016,31,Yes,8,Teenager
+Rajasthan,Murder,2000,6,Yes,9,Senior
+Gujarat,Robbery,2017,46,Yes,6,Senior
+Tamil Nadu,Kidnapping,2001,9,Yes,1,Adult
+Gujarat,Drugs,2006,6,Yes,2,Teenager
+Karnataka,Assault,2019,17,Yes,2,Teenager
+Kerala,Robbery,2023,31,No,3,Teenager
+Tamil Nadu,Theft,2005,41,Yes,1,Teenager
+Rajasthan,Robbery,2015,37,Yes,4,Teenager
+Bihar,Drugs,2001,23,Yes,1,Child
+Rajasthan,Drugs,2004,37,Yes,4,Senior
+Rajasthan,Theft,2004,5,No,1,Senior
+Karnataka,Murder,2019,38,No,9,Child
+Gujarat,Theft,2022,34,Yes,3,Child
+Punjab,Other,2018,22,No,5,Teenager
+Bihar,Fraud,2015,37,Yes,3,Teenager
+West Bengal,Robbery,2006,18,No,1,Senior
+Maharashtra,Fraud,2023,19,Yes,9,Child
+Kerala,Cybercrime,2010,3,Yes,2,Child
+Uttar Pradesh,Robbery,2011,11,No,3,Adult
+Rajasthan,Drugs,2011,24,Yes,5,Child
+Punjab,Other,2000,41,No,1,Senior
+West Bengal,Kidnapping,2018,46,No,4,Child
+Tamil Nadu,Other,2021,41,Yes,2,Child
+Tamil Nadu,Assault,2017,25,No,3,Child
+Uttar Pradesh,Robbery,2022,39,No,7,Senior
+Maharashtra,Kidnapping,2020,9,No,6,Adult
+Uttar Pradesh,Robbery,2011,19,Yes,1,Senior
+Rajasthan,Domestic Violence,2011,18,No,6,Adult
+Karnataka,Theft,2020,43,Yes,7,Teenager
+Gujarat,Theft,2015,7,Yes,2,Child
+Rajasthan,Other,2019,49,Yes,10,Adult
+Maharashtra,Assault,2005,18,No,9,Teenager
+Maharashtra,Kidnapping,2023,38,Yes,7,Teenager
+Gujarat,Kidnapping,2015,14,Yes,10,Adult
+West Bengal,Cybercrime,2015,49,Yes,2,Teenager
+Uttar Pradesh,Murder,2011,43,Yes,6,Teenager
+Rajasthan,Cybercrime,2020,32,Yes,3,Child
+Tamil Nadu,Fraud,2000,32,No,8,Teenager
+Tamil Nadu,Kidnapping,2002,13,Yes,5,Senior
+Rajasthan,Assault,2008,17,No,4,Senior
+Tamil Nadu,Kidnapping,2006,21,No,9,Senior
+Punjab,Kidnapping,2021,15,No,8,Senior
+Punjab,Drugs,2005,12,No,3,Child
+West Bengal,Theft,2001,4,Yes,5,Child
+Uttar Pradesh,Murder,2010,50,No,8,Senior
+Bihar,Cybercrime,2020,27,No,9,Senior
+Tamil Nadu,Robbery,2000,34,Yes,1,Adult
+Bihar,Drugs,2017,25,No,5,Senior
+Rajasthan,Robbery,2018,14,Yes,7,Adult
+Maharashtra,Murder,2002,21,No,10,Adult
+West Bengal,Other,2009,8,No,5,Teenager
+Kerala,Other,2016,18,No,1,Child
+Tamil Nadu,Robbery,2006,39,Yes,1,Adult
+Punjab,Kidnapping,2011,35,Yes,7,Child
+Tamil Nadu,Kidnapping,2013,8,No,10,Adult
+Kerala,Robbery,2007,18,No,4,Adult
+Maharashtra,Cybercrime,2007,4,Yes,8,Senior
+Kerala,Fraud,2012,22,Yes,6,Adult
+Gujarat,Fraud,2006,49,No,8,Adult
+Bihar,Robbery,2023,19,No,5,Adult
+Punjab,Kidnapping,2019,3,Yes,6,Adult
+West Bengal,Robbery,2017,13,Yes,5,Senior
+Rajasthan,Kidnapping,2021,25,Yes,9,Adult
+Rajasthan,Assault,2016,6,Yes,7,Child
+Uttar Pradesh,Domestic Violence,2008,15,No,1,Child
+Punjab,Assault,2009,22,Yes,10,Child
+Rajasthan,Theft,2010,13,No,3,Teenager
+Rajasthan,Other,2013,8,No,3,Child
+Gujarat,Assault,2007,5,No,1,Teenager
+Rajasthan,Domestic Violence,2002,14,Yes,4,Child
+Kerala,Assault,2009,40,No,4,Teenager
+Punjab,Domestic Violence,2008,12,Yes,10,Teenager
+Rajasthan,Robbery,2014,4,No,7,Teenager
+Rajasthan,Kidnapping,2021,26,No,2,Adult
+Tamil Nadu,Theft,2010,11,Yes,5,Senior
+Bihar,Other,2018,24,Yes,2,Teenager
+Bihar,Theft,2006,18,No,4,Senior
+Bihar,Murder,2017,49,No,4,Adult
+Rajasthan,Drugs,2019,4,No,3,Senior
+Karnataka,Robbery,2007,48,Yes,2,Adult
+Tamil Nadu,Assault,2023,39,Yes,1,Senior
+Kerala,Drugs,2022,3,Yes,8,Adult
+West Bengal,Robbery,2001,5,No,3,Adult
+Bihar,Cybercrime,2008,36,Yes,4,Adult
+Karnataka,Kidnapping,2022,41,Yes,9,Teenager
+Kerala,Cybercrime,2001,8,Yes,9,Teenager
+Punjab,Theft,2023,32,Yes,3,Teenager
+Bihar,Theft,2021,17,Yes,9,Adult
+Karnataka,Kidnapping,2019,33,No,9,Adult
+West Bengal,Fraud,2001,11,Yes,6,Child
+Gujarat,Fraud,2023,24,Yes,9,Senior
+Maharashtra,Drugs,2003,20,Yes,1,Teenager
+Kerala,Fraud,2001,38,No,8,Adult
+Uttar Pradesh,Domestic Violence,2013,23,No,7,Adult
+Rajasthan,Cybercrime,2015,2,No,10,Senior
+Rajasthan,Robbery,2003,42,No,3,Senior
+Tamil Nadu,Other,2010,50,No,3,Teenager
+Uttar Pradesh,Kidnapping,2017,6,No,2,Child
+West Bengal,Other,2015,17,Yes,6,Senior
+Punjab,Other,2007,43,Yes,9,Senior
+West Bengal,Murder,2019,47,No,9,Senior
+Bihar,Kidnapping,2004,28,Yes,3,Adult
+Kerala,Murder,2014,7,No,10,Child
+Uttar Pradesh,Kidnapping,2021,24,Yes,5,Senior
+Karnataka,Theft,2020,16,Yes,10,Child
+West Bengal,Cybercrime,2001,18,No,10,Teenager
+West Bengal,Robbery,2001,13,No,6,Child
+Karnataka,Murder,2011,40,Yes,8,Senior
+Karnataka,Kidnapping,2000,10,No,5,Senior
+West Bengal,Kidnapping,2013,38,No,5,Teenager
+Uttar Pradesh,Robbery,2005,16,No,10,Teenager
+Karnataka,Other,2010,49,No,3,Child
+Maharashtra,Fraud,2001,8,Yes,6,Teenager
+Kerala,Drugs,2017,2,Yes,4,Teenager
+Kerala,Fraud,2010,10,No,3,Teenager
+West Bengal,Fraud,2017,16,No,7,Adult
+Bihar,Murder,2006,14,No,4,Adult
+Maharashtra,Drugs,2001,7,No,5,Adult
+Punjab,Murder,2007,23,No,5,Child
+Kerala,Assault,2007,38,No,4,Adult
+Maharashtra,Drugs,2000,24,Yes,7,Senior
+Karnataka,Fraud,2002,31,No,3,Teenager
+Maharashtra,Cybercrime,2001,33,No,10,Senior
+West Bengal,Drugs,2021,29,Yes,1,Teenager
+Kerala,Murder,2023,45,No,1,Child
+Maharashtra,Robbery,2007,35,Yes,6,Adult
+Bihar,Murder,2020,6,Yes,5,Senior
+Tamil Nadu,Cybercrime,2023,23,No,2,Teenager
+Kerala,Fraud,2009,47,Yes,4,Senior
+Kerala,Fraud,2017,21,Yes,5,Teenager
+Kerala,Cybercrime,2022,37,Yes,9,Teenager
+Gujarat,Cybercrime,2016,29,Yes,9,Senior
+Karnataka,Domestic Violence,2018,4,No,6,Adult
+Maharashtra,Drugs,2002,34,No,2,Adult
+Bihar,Robbery,2013,40,Yes,3,Child
+Kerala,Domestic Violence,2007,21,No,4,Adult
+Maharashtra,Domestic Violence,2011,47,Yes,4,Adult
+Kerala,Other,2020,1,No,3,Child
+West Bengal,Murder,2003,30,No,10,Adult
+Maharashtra,Drugs,2019,45,Yes,6,Child
+Uttar Pradesh,Fraud,2007,41,No,3,Adult
+Karnataka,Theft,2019,4,No,4,Senior
+Karnataka,Other,2007,5,No,5,Child
+Punjab,Theft,2009,44,No,2,Adult
+Gujarat,Domestic Violence,2006,43,Yes,7,Adult
+Rajasthan,Fraud,2017,8,No,10,Adult
+Uttar Pradesh,Robbery,2018,6,Yes,8,Adult
+Maharashtra,Drugs,2016,1,No,4,Teenager
+Bihar,Theft,2009,35,No,6,Child
+Uttar Pradesh,Assault,2002,13,No,3,Senior
+Uttar Pradesh,Kidnapping,2001,14,No,6,Child
+Uttar Pradesh,Theft,2010,26,Yes,6,Adult
+Gujarat,Theft,2004,18,No,5,Adult
+Uttar Pradesh,Fraud,2000,6,Yes,1,Senior
+Bihar,Domestic Violence,2003,49,Yes,6,Adult
+Gujarat,Robbery,2016,49,Yes,4,Senior
+Gujarat,Fraud,2012,31,No,8,Senior
+Uttar Pradesh,Cybercrime,2002,10,Yes,4,Senior
+Uttar Pradesh,Domestic Violence,2004,23,Yes,7,Child
+Tamil Nadu,Kidnapping,2011,7,No,9,Teenager
+Bihar,Assault,2000,34,No,3,Teenager
+Gujarat,Kidnapping,2001,36,Yes,8,Teenager
+West Bengal,Other,2001,31,Yes,4,Teenager
+Punjab,Kidnapping,2002,6,Yes,6,Child
+Uttar Pradesh,Robbery,2013,37,Yes,9,Teenager
+West Bengal,Kidnapping,2007,46,Yes,9,Child
+Punjab,Cybercrime,2005,21,No,6,Adult
+Punjab,Fraud,2000,13,No,8,Adult
+Maharashtra,Murder,2016,18,Yes,5,Senior
+Tamil Nadu,Drugs,2020,38,No,2,Senior
+Maharashtra,Drugs,2010,47,No,1,Senior
+Punjab,Cybercrime,2016,9,No,9,Child
+Maharashtra,Murder,2008,33,Yes,3,Adult
+Karnataka,Other,2002,16,Yes,8,Senior
+Punjab,Drugs,2006,15,No,7,Child
+Kerala,Drugs,2016,40,Yes,8,Senior
+Maharashtra,Murder,2009,15,No,1,Senior
+Punjab,Assault,2004,14,No,1,Senior
+Bihar,Drugs,2023,40,No,6,Teenager
+Rajasthan,Cybercrime,2014,11,Yes,4,Adult
+Karnataka,Drugs,2015,40,Yes,8,Teenager
+Tamil Nadu,Assault,2015,15,No,1,Adult
+Tamil Nadu,Kidnapping,2009,5,Yes,1,Senior
+Punjab,Robbery,2019,36,No,2,Adult
+Punjab,Domestic Violence,2006,10,No,8,Senior
+West Bengal,Fraud,2001,49,Yes,5,Senior
+Rajasthan,Domestic Violence,2011,43,No,7,Senior
+Karnataka,Fraud,2002,6,No,7,Child
+Uttar Pradesh,Other,2016,41,No,1,Senior
+Maharashtra,Domestic Violence,2011,25,Yes,1,Adult
+Uttar Pradesh,Theft,2013,38,No,7,Adult
+Maharashtra,Drugs,2020,47,Yes,4,Senior
+West Bengal,Fraud,2018,39,No,6,Child
+Tamil Nadu,Theft,2009,39,No,10,Child
+Gujarat,Drugs,2014,38,No,4,Adult
+Tamil Nadu,Other,2013,13,Yes,8,Senior
+Punjab,Assault,2022,40,Yes,10,Senior
+Punjab,Theft,2002,33,No,10,Senior
+Rajasthan,Assault,2013,34,No,4,Senior
+Kerala,Other,2009,14,No,4,Adult
+Punjab,Theft,2022,37,No,5,Adult
+Karnataka,Assault,2008,23,Yes,9,Adult
+West Bengal,Robbery,2011,33,No,5,Adult
+Punjab,Domestic Violence,2015,26,Yes,10,Teenager
+Maharashtra,Robbery,2006,30,Yes,6,Child
+Bihar,Murder,2003,3,No,2,Senior
+Uttar Pradesh,Kidnapping,2002,10,Yes,8,Adult
+Gujarat,Domestic Violence,2011,21,Yes,3,Child
+Punjab,Robbery,2022,26,No,4,Adult
+Karnataka,Robbery,2014,27,No,10,Teenager
+Punjab,Robbery,2005,26,No,5,Child
+Punjab,Other,2005,8,No,4,Adult
+Punjab,Robbery,2001,22,No,3,Senior
+Rajasthan,Murder,2022,9,Yes,4,Teenager
+Kerala,Murder,2000,22,Yes,4,Senior
+West Bengal,Robbery,2013,25,No,1,Adult
+Bihar,Theft,2015,38,Yes,7,Adult
+Punjab,Robbery,2010,24,Yes,1,Senior
+Kerala,Robbery,2008,22,Yes,2,Senior
+Punjab,Theft,2010,22,Yes,6,Senior
+Gujarat,Theft,2000,20,No,5,Teenager
+Karnataka,Drugs,2002,19,No,3,Senior
+Tamil Nadu,Domestic Violence,2023,11,Yes,4,Senior
+Kerala,Drugs,2019,37,Yes,8,Adult
+West Bengal,Robbery,2013,29,No,8,Child
+Karnataka,Theft,2002,30,No,6,Adult
+Rajasthan,Fraud,2012,33,No,7,Adult
+Punjab,Fraud,2014,41,No,6,Senior
+Bihar,Cybercrime,2023,31,No,2,Adult
+Punjab,Domestic Violence,2008,38,No,6,Child
+Karnataka,Robbery,2004,31,No,7,Child
+West Bengal,Kidnapping,2003,46,No,3,Child
+Karnataka,Fraud,2017,36,Yes,8,Child
+Uttar Pradesh,Assault,2019,45,No,1,Senior
+West Bengal,Other,2012,12,Yes,9,Adult
+Punjab,Robbery,2009,11,No,3,Adult
+Gujarat,Other,2022,19,Yes,10,Senior
+Kerala,Domestic Violence,2013,23,Yes,3,Child
+Kerala,Other,2019,22,Yes,1,Senior
+West Bengal,Murder,2006,40,Yes,2,Child
+Maharashtra,Theft,2016,7,No,1,Child
+Punjab,Domestic Violence,2011,41,Yes,3,Child
+Rajasthan,Murder,2015,23,Yes,3,Senior
+Gujarat,Murder,2014,7,No,8,Senior
+Uttar Pradesh,Cybercrime,2007,5,No,3,Child
+Maharashtra,Assault,2006,26,Yes,6,Senior
+Tamil Nadu,Drugs,2002,5,Yes,7,Senior
+West Bengal,Cybercrime,2011,38,No,7,Adult
+Bihar,Cybercrime,2001,46,Yes,7,Teenager
+Rajasthan,Fraud,2011,25,Yes,6,Adult
+Uttar Pradesh,Murder,2001,20,Yes,1,Child
+West Bengal,Other,2020,17,Yes,2,Teenager
+West Bengal,Drugs,2004,6,Yes,2,Teenager
+Karnataka,Domestic Violence,2002,45,Yes,7,Teenager
+Punjab,Fraud,2022,45,Yes,7,Child
+Tamil Nadu,Domestic Violence,2021,7,No,10,Adult
+Rajasthan,Cybercrime,2018,1,Yes,3,Senior
+Maharashtra,Kidnapping,2013,34,Yes,10,Senior
+Rajasthan,Cybercrime,2009,41,Yes,5,Teenager
+Punjab,Drugs,2008,31,No,9,Adult
+West Bengal,Fraud,2010,31,Yes,4,Child
+Punjab,Robbery,2010,48,Yes,6,Adult
+Uttar Pradesh,Fraud,2002,9,Yes,1,Adult
+Bihar,Assault,2018,5,Yes,1,Child
+Kerala,Domestic Violence,2017,10,Yes,6,Senior
+Punjab,Fraud,2006,27,Yes,1,Adult
+Gujarat,Theft,2017,24,Yes,7,Senior
+Maharashtra,Cybercrime,2022,12,No,2,Senior
+Bihar,Assault,2007,30,No,1,Senior
+Maharashtra,Domestic Violence,2020,44,No,9,Senior
+Gujarat,Other,2021,40,No,10,Senior
+Uttar Pradesh,Fraud,2009,37,No,10,Child
+Gujarat,Other,2010,36,Yes,7,Teenager
+West Bengal,Theft,2015,5,Yes,8,Senior
+Gujarat,Theft,2017,28,Yes,5,Child
+Tamil Nadu,Assault,2008,49,Yes,6,Adult
+Uttar Pradesh,Cybercrime,2013,37,Yes,5,Child
+Gujarat,Drugs,2012,18,Yes,10,Teenager
+Karnataka,Robbery,2000,24,No,6,Senior
+Gujarat,Cybercrime,2020,17,No,5,Teenager
+Uttar Pradesh,Theft,2008,4,No,4,Adult
+Bihar,Fraud,2016,45,No,2,Senior
+West Bengal,Kidnapping,2012,36,No,4,Teenager
+Rajasthan,Murder,2007,25,Yes,7,Senior
+Tamil Nadu,Cybercrime,2010,38,No,7,Child
+West Bengal,Drugs,2022,13,No,3,Senior
+Gujarat,Theft,2004,34,Yes,7,Child
+Rajasthan,Cybercrime,2015,5,No,7,Teenager
+Punjab,Theft,2023,29,No,3,Adult
+Maharashtra,Robbery,2010,49,No,4,Adult
+Bihar,Fraud,2008,12,Yes,5,Teenager
+Kerala,Murder,2005,47,Yes,1,Adult
+Maharashtra,Murder,2010,2,No,2,Senior
+Punjab,Other,2013,41,Yes,5,Child
+Rajasthan,Fraud,2015,1,No,9,Teenager
+Uttar Pradesh,Other,2022,4,No,6,Teenager
+Karnataka,Fraud,2018,17,Yes,3,Senior
+Kerala,Kidnapping,2015,12,Yes,7,Senior
+Punjab,Kidnapping,2010,46,Yes,9,Child
+Gujarat,Murder,2009,17,Yes,4,Child
+Rajasthan,Theft,2003,24,Yes,10,Senior
+Tamil Nadu,Murder,2011,16,No,10,Child
+Punjab,Other,2022,7,No,3,Adult
+Gujarat,Other,2014,32,No,4,Senior
+Kerala,Fraud,2010,5,Yes,2,Teenager
+Rajasthan,Murder,2013,21,No,1,Child
+West Bengal,Murder,2012,50,Yes,9,Senior
+Gujarat,Domestic Violence,2005,3,No,8,Adult
+Gujarat,Domestic Violence,2015,1,No,6,Child
+Kerala,Drugs,2001,45,No,5,Adult
+Bihar,Assault,2013,16,Yes,7,Senior
+Gujarat,Theft,2020,28,No,10,Child
+Karnataka,Other,2000,50,Yes,6,Child
+Rajasthan,Cybercrime,2000,16,Yes,10,Senior
+Uttar Pradesh,Drugs,2010,2,Yes,2,Senior
+West Bengal,Cybercrime,2005,38,No,3,Child
+Kerala,Cybercrime,2020,41,No,7,Child
+West Bengal,Domestic Violence,2021,9,Yes,7,Senior
+West Bengal,Cybercrime,2020,32,No,4,Senior
+Tamil Nadu,Domestic Violence,2010,9,Yes,9,Teenager
+Rajasthan,Domestic Violence,2005,48,Yes,10,Teenager
+Uttar Pradesh,Murder,2021,1,Yes,5,Child
+Rajasthan,Fraud,2019,39,No,9,Senior
+Tamil Nadu,Murder,2018,14,Yes,2,Senior
+Gujarat,Kidnapping,2016,8,Yes,4,Adult
+Tamil Nadu,Fraud,2004,24,No,9,Teenager
+Gujarat,Kidnapping,2021,33,No,10,Child
+Rajasthan,Fraud,2001,28,Yes,5,Senior
+West Bengal,Assault,2011,11,Yes,3,Adult
+Karnataka,Murder,2023,35,Yes,6,Adult
+Tamil Nadu,Other,2003,10,Yes,3,Child
+Tamil Nadu,Drugs,2008,34,Yes,5,Senior
+Bihar,Robbery,2009,28,Yes,5,Child
+Karnataka,Murder,2014,43,Yes,2,Child
+West Bengal,Murder,2010,22,No,10,Teenager
+Uttar Pradesh,Other,2020,48,Yes,5,Senior
+Maharashtra,Kidnapping,2023,28,No,3,Child
+Uttar Pradesh,Domestic Violence,2001,21,No,2,Senior
+Bihar,Cybercrime,2009,4,No,5,Child
+Uttar Pradesh,Kidnapping,2018,22,Yes,2,Child
+West Bengal,Cybercrime,2015,50,No,2,Teenager
+Kerala,Drugs,2014,41,No,5,Child
+Bihar,Drugs,2009,31,Yes,8,Child
+Bihar,Cybercrime,2001,14,No,7,Adult
+Karnataka,Robbery,2007,29,No,9,Child
+Punjab,Other,2019,15,Yes,7,Senior
+Karnataka,Assault,2009,5,No,3,Child
+Punjab,Robbery,2005,44,Yes,3,Adult
+Karnataka,Domestic Violence,2016,25,No,6,Child
+Bihar,Drugs,2009,20,No,10,Child
+Tamil Nadu,Assault,2003,29,No,4,Adult
+Maharashtra,Cybercrime,2016,37,No,7,Adult
+Karnataka,Fraud,2008,8,No,2,Teenager
+Uttar Pradesh,Murder,2021,25,Yes,5,Child
+Uttar Pradesh,Other,2003,8,Yes,1,Child
+Tamil Nadu,Cybercrime,2002,9,Yes,9,Senior
+West Bengal,Domestic Violence,2007,49,No,2,Senior
+Kerala,Fraud,2018,27,No,8,Child
+Punjab,Assault,2018,11,Yes,9,Teenager
+Tamil Nadu,Other,2018,50,No,10,Child
+Punjab,Kidnapping,2005,45,Yes,5,Adult
+Uttar Pradesh,Assault,2002,36,Yes,10,Child
+Rajasthan,Kidnapping,2011,4,No,5,Child
+West Bengal,Other,2010,29,Yes,5,Senior
+Punjab,Other,2011,48,Yes,4,Child
+West Bengal,Murder,2001,38,No,5,Child
+Tamil Nadu,Assault,2005,34,Yes,10,Child
+Punjab,Robbery,2011,1,No,3,Child
+Bihar,Assault,2014,47,Yes,10,Senior
+Rajasthan,Other,2009,43,No,6,Senior
+Uttar Pradesh,Theft,2017,14,No,4,Child
+Kerala,Robbery,2023,25,No,7,Senior
+Gujarat,Drugs,2021,11,Yes,3,Child
+Gujarat,Cybercrime,2000,38,Yes,6,Teenager
+Maharashtra,Domestic Violence,2012,4,Yes,10,Child
+Punjab,Kidnapping,2019,45,No,7,Senior
+Uttar Pradesh,Other,2003,47,Yes,10,Adult
+Kerala,Kidnapping,2016,17,No,1,Adult
+Rajasthan,Cybercrime,2018,47,No,7,Adult
+Tamil Nadu,Drugs,2009,42,Yes,7,Child
+Punjab,Fraud,2008,46,No,4,Teenager
+West Bengal,Murder,2005,36,No,3,Adult
+West Bengal,Robbery,2022,25,Yes,10,Adult
+Maharashtra,Domestic Violence,2002,24,No,3,Teenager
+Punjab,Robbery,2015,50,No,9,Senior
+Rajasthan,Robbery,2002,41,Yes,1,Senior
+Rajasthan,Domestic Violence,2002,45,No,1,Adult
+Kerala,Robbery,2002,22,Yes,1,Child
+Rajasthan,Theft,2005,44,Yes,9,Teenager
+Tamil Nadu,Theft,2007,45,No,4,Adult
+Karnataka,Domestic Violence,2001,14,Yes,9,Senior
+Uttar Pradesh,Drugs,2008,38,Yes,10,Child
+Punjab,Kidnapping,2000,29,No,10,Teenager
+Karnataka,Fraud,2020,15,No,7,Teenager
+Maharashtra,Murder,2002,25,No,2,Adult
+Bihar,Cybercrime,2018,20,Yes,3,Child
+Bihar,Murder,2013,46,No,3,Senior
+Tamil Nadu,Kidnapping,2008,23,No,5,Senior
+Karnataka,Kidnapping,2002,21,Yes,2,Adult
+Maharashtra,Drugs,2022,15,No,4,Adult
+Punjab,Domestic Violence,2007,21,Yes,2,Child
+West Bengal,Fraud,2015,11,No,9,Teenager
+Maharashtra,Fraud,2018,17,No,6,Senior
+Rajasthan,Domestic Violence,2003,1,No,5,Adult
+Maharashtra,Assault,2015,18,Yes,9,Child
+Kerala,Fraud,2002,2,Yes,5,Teenager
+Bihar,Cybercrime,2005,32,No,6,Child
+Tamil Nadu,Drugs,2021,25,No,7,Adult
+Karnataka,Cybercrime,2013,15,No,9,Senior
+Rajasthan,Other,2015,16,Yes,6,Senior
+Punjab,Murder,2011,26,No,8,Teenager
+Gujarat,Other,2005,28,No,8,Senior
+Karnataka,Domestic Violence,2021,30,No,10,Teenager
+Tamil Nadu,Cybercrime,2014,47,Yes,10,Adult
+Karnataka,Other,2022,7,Yes,6,Teenager
+Kerala,Murder,2000,21,No,9,Adult
+Rajasthan,Theft,2005,41,Yes,10,Teenager
+Rajasthan,Robbery,2002,15,No,3,Child
+Gujarat,Robbery,2010,9,Yes,6,Senior
+West Bengal,Kidnapping,2008,30,No,7,Adult
+Uttar Pradesh,Domestic Violence,2019,49,No,9,Teenager
+Punjab,Kidnapping,2014,41,Yes,1,Teenager
+Gujarat,Domestic Violence,2018,9,Yes,7,Adult
+Uttar Pradesh,Murder,2018,23,No,6,Senior
+Tamil Nadu,Fraud,2019,28,Yes,2,Adult
+Punjab,Theft,2003,41,No,6,Senior
+Maharashtra,Domestic Violence,2010,37,No,1,Senior
+Punjab,Cybercrime,2016,19,No,9,Senior
+West Bengal,Drugs,2018,15,No,3,Teenager
+Kerala,Fraud,2010,16,Yes,2,Child
+Rajasthan,Fraud,2017,48,No,9,Adult
+Maharashtra,Cybercrime,2008,41,Yes,8,Adult
+Gujarat,Other,2003,31,No,2,Adult
+Uttar Pradesh,Murder,2002,1,No,2,Child
+Uttar Pradesh,Other,2008,37,Yes,8,Teenager
+West Bengal,Drugs,2015,42,No,5,Adult
+Gujarat,Domestic Violence,2016,39,No,10,Child
+Tamil Nadu,Cybercrime,2005,46,No,2,Adult
+Tamil Nadu,Other,2007,15,Yes,8,Teenager
+Gujarat,Cybercrime,2000,12,Yes,8,Adult
+Bihar,Fraud,2005,16,Yes,3,Teenager
+Punjab,Murder,2006,44,No,9,Child
+Bihar,Robbery,2001,24,Yes,6,Teenager
+Uttar Pradesh,Cybercrime,2016,10,No,1,Child
+Rajasthan,Fraud,2007,10,Yes,10,Teenager
+Karnataka,Kidnapping,2016,36,No,4,Teenager
+Karnataka,Other,2005,2,No,5,Senior
+Maharashtra,Drugs,2018,8,Yes,2,Teenager
+Punjab,Robbery,2018,22,Yes,9,Child
+Uttar Pradesh,Domestic Violence,2007,26,Yes,5,Child
+Maharashtra,Other,2010,4,No,1,Teenager
+Rajasthan,Kidnapping,2006,16,No,5,Child
+Kerala,Robbery,2020,30,Yes,3,Senior
+West Bengal,Drugs,2007,40,No,9,Child
+Kerala,Cybercrime,2022,50,Yes,2,Teenager
+West Bengal,Kidnapping,2023,29,No,7,Senior
+West Bengal,Cybercrime,2017,45,No,7,Teenager
+Maharashtra,Drugs,2003,34,No,8,Teenager
+Rajasthan,Theft,2020,20,No,4,Adult
+Karnataka,Murder,2001,22,No,5,Teenager
+Karnataka,Theft,2013,50,Yes,1,Adult
+Kerala,Domestic Violence,2010,15,Yes,5,Senior
+Tamil Nadu,Domestic Violence,2003,1,No,1,Adult
+Karnataka,Murder,2007,29,Yes,1,Teenager
+Maharashtra,Kidnapping,2014,48,Yes,8,Adult
+Rajasthan,Cybercrime,2009,39,Yes,1,Teenager
+Gujarat,Murder,2011,3,No,6,Teenager
+Punjab,Assault,2009,12,Yes,4,Senior
+Karnataka,Theft,2010,45,Yes,1,Teenager
+Kerala,Other,2011,3,No,1,Child
+Tamil Nadu,Theft,2012,7,Yes,7,Senior
+Tamil Nadu,Cybercrime,2020,17,No,9,Child
+Tamil Nadu,Drugs,2021,2,No,8,Teenager
+Kerala,Murder,2010,14,Yes,10,Teenager
+West Bengal,Other,2008,45,Yes,5,Child
+Tamil Nadu,Fraud,2002,34,No,3,Senior
+Rajasthan,Theft,2007,15,Yes,6,Teenager
+Tamil Nadu,Kidnapping,2010,18,No,9,Senior
+Rajasthan,Other,2020,3,Yes,10,Senior
+Maharashtra,Domestic Violence,2006,2,Yes,8,Senior
+Uttar Pradesh,Robbery,2002,6,No,3,Senior
+Punjab,Cybercrime,2023,26,No,10,Adult
+Kerala,Drugs,2020,2,Yes,5,Adult
+Maharashtra,Fraud,2006,29,No,6,Senior
+Punjab,Kidnapping,2005,28,Yes,1,Child
+Rajasthan,Assault,2011,42,No,6,Senior
+Uttar Pradesh,Murder,2011,39,Yes,6,Senior
+Tamil Nadu,Murder,2003,47,No,10,Adult
+West Bengal,Drugs,2001,16,No,5,Adult
+Kerala,Robbery,2001,49,Yes,10,Senior
+Punjab,Other,2007,19,No,4,Adult
+Uttar Pradesh,Domestic Violence,2001,21,Yes,3,Teenager
+Punjab,Robbery,2002,14,Yes,9,Adult
+West Bengal,Domestic Violence,2002,32,No,7,Adult
+Uttar Pradesh,Theft,2009,34,Yes,10,Senior
+Karnataka,Kidnapping,2000,39,Yes,7,Senior
+Gujarat,Robbery,2013,31,Yes,6,Teenager
+Kerala,Domestic Violence,2020,32,No,8,Senior
+Gujarat,Murder,2020,30,No,7,Senior
+Gujarat,Cybercrime,2006,40,Yes,6,Child
+Karnataka,Other,2006,41,Yes,2,Child
+Punjab,Cybercrime,2011,27,No,4,Senior
+Maharashtra,Other,2008,18,No,6,Senior
+Uttar Pradesh,Kidnapping,2020,43,Yes,7,Teenager
+Gujarat,Robbery,2016,15,No,5,Senior
+Punjab,Assault,2003,40,Yes,2,Adult
+Rajasthan,Theft,2008,22,No,10,Senior
+Kerala,Assault,2023,21,Yes,4,Adult
+Bihar,Robbery,2004,49,Yes,6,Child
+Gujarat,Cybercrime,2002,25,Yes,5,Teenager
+Maharashtra,Murder,2023,26,No,3,Teenager
+Kerala,Kidnapping,2012,5,No,9,Teenager
+Bihar,Robbery,2022,39,No,8,Child
+Karnataka,Cybercrime,2000,34,No,9,Child
+Kerala,Assault,2010,47,Yes,3,Child
+Kerala,Robbery,2000,25,No,10,Senior
+Kerala,Theft,2006,27,No,8,Adult
+Punjab,Murder,2008,25,No,4,Senior
+Tamil Nadu,Assault,2018,15,Yes,2,Teenager
+Gujarat,Cybercrime,2002,47,Yes,2,Child
+West Bengal,Robbery,2023,7,No,5,Teenager
+Gujarat,Drugs,2020,49,Yes,6,Senior
+West Bengal,Robbery,2008,17,Yes,5,Teenager
+Gujarat,Drugs,2002,48,No,10,Adult
+Tamil Nadu,Robbery,2001,1,Yes,3,Teenager
+Maharashtra,Fraud,2017,34,Yes,7,Teenager
+Gujarat,Kidnapping,2002,40,Yes,4,Adult
+Bihar,Theft,2009,40,Yes,3,Child
+Rajasthan,Domestic Violence,2015,7,Yes,6,Adult
+West Bengal,Murder,2006,22,Yes,5,Child
+Uttar Pradesh,Domestic Violence,2005,1,No,7,Adult
+Gujarat,Kidnapping,2001,19,Yes,10,Senior
+Gujarat,Cybercrime,2012,37,No,5,Teenager
+Punjab,Other,2008,18,Yes,10,Teenager
+Punjab,Murder,2000,29,No,3,Child
+Karnataka,Domestic Violence,2005,8,Yes,7,Senior
+Uttar Pradesh,Domestic Violence,2003,29,Yes,7,Adult
+Karnataka,Cybercrime,2009,30,Yes,7,Adult
+Uttar Pradesh,Fraud,2002,31,No,7,Adult
+West Bengal,Drugs,2012,14,Yes,9,Teenager
+West Bengal,Murder,2002,34,Yes,7,Child
+Kerala,Domestic Violence,2003,19,Yes,7,Teenager
+West Bengal,Cybercrime,2001,45,Yes,10,Senior
+Gujarat,Assault,2003,45,Yes,8,Senior
+Punjab,Cybercrime,2006,46,No,7,Adult
+Tamil Nadu,Cybercrime,2019,47,Yes,4,Teenager
+Tamil Nadu,Assault,2002,5,Yes,2,Teenager
+Tamil Nadu,Robbery,2002,14,Yes,10,Child
+Punjab,Cybercrime,2009,49,No,9,Child
+Gujarat,Murder,2015,26,Yes,6,Adult
+West Bengal,Drugs,2010,44,No,6,Teenager
+Rajasthan,Kidnapping,2002,7,No,6,Adult
+Kerala,Domestic Violence,2008,41,No,7,Teenager
+Rajasthan,Robbery,2008,37,Yes,6,Senior
+Punjab,Robbery,2005,45,Yes,10,Adult
+Kerala,Cybercrime,2002,48,Yes,5,Adult
+Kerala,Assault,2015,47,No,4,Senior
+Kerala,Theft,2005,26,Yes,9,Senior
+West Bengal,Theft,2018,8,Yes,10,Senior
+Kerala,Murder,2020,42,Yes,7,Child
+Tamil Nadu,Drugs,2000,19,No,3,Teenager
+Karnataka,Kidnapping,2008,8,Yes,8,Child
+Kerala,Drugs,2011,22,No,7,Child
+West Bengal,Robbery,2023,28,No,2,Child
+Karnataka,Fraud,2021,33,Yes,4,Adult
+Karnataka,Robbery,2010,23,Yes,3,Senior
+Rajasthan,Assault,2013,18,No,5,Child
+Tamil Nadu,Cybercrime,2003,38,Yes,9,Adult
+Maharashtra,Drugs,2020,46,Yes,2,Teenager
+Bihar,Assault,2000,45,No,7,Teenager
+Punjab,Theft,2007,49,No,10,Teenager
+Gujarat,Drugs,2004,12,No,3,Teenager
+Uttar Pradesh,Robbery,2000,33,Yes,8,Adult
+Bihar,Other,2009,36,No,4,Adult
+Kerala,Drugs,2004,36,No,3,Child
+Kerala,Theft,2020,14,No,4,Senior
+Kerala,Theft,2017,4,Yes,3,Teenager
+Maharashtra,Kidnapping,2014,17,No,10,Teenager
+Bihar,Robbery,2001,8,No,10,Senior
+Bihar,Fraud,2008,30,Yes,1,Adult
+Punjab,Murder,2004,29,No,5,Teenager
+Kerala,Domestic Violence,2015,1,No,8,Child
+Uttar Pradesh,Fraud,2006,20,No,10,Teenager
+Bihar,Domestic Violence,2005,7,Yes,6,Senior
+Gujarat,Cybercrime,2019,5,No,9,Adult
+Bihar,Drugs,2015,44,No,7,Child
+Maharashtra,Fraud,2022,14,Yes,2,Senior
+Uttar Pradesh,Theft,2008,33,No,9,Adult
+West Bengal,Fraud,2009,1,No,9,Adult
+Bihar,Cybercrime,2004,47,No,6,Teenager
+Karnataka,Kidnapping,2010,48,No,8,Adult
+Gujarat,Domestic Violence,2009,15,No,6,Child
+Kerala,Murder,2002,13,Yes,2,Senior
+Rajasthan,Fraud,2006,19,Yes,10,Senior
+Karnataka,Theft,2005,26,Yes,1,Senior
+Tamil Nadu,Other,2003,10,Yes,5,Teenager
+Gujarat,Robbery,2020,7,No,8,Child
+Tamil Nadu,Murder,2007,17,Yes,9,Senior
+Gujarat,Theft,2009,36,Yes,7,Child
+Tamil Nadu,Drugs,2015,22,Yes,9,Adult
+Kerala,Robbery,2012,7,Yes,8,Adult
+West Bengal,Robbery,2023,44,No,10,Adult
+Gujarat,Domestic Violence,2014,48,No,5,Child
+Punjab,Fraud,2018,37,No,9,Teenager
+Gujarat,Murder,2012,39,No,8,Child
+Uttar Pradesh,Drugs,2014,41,Yes,7,Teenager
+West Bengal,Robbery,2006,43,Yes,6,Senior
+Rajasthan,Domestic Violence,2020,5,Yes,2,Teenager
+Tamil Nadu,Cybercrime,2017,7,Yes,5,Teenager
+Gujarat,Assault,2006,33,Yes,9,Teenager
+Karnataka,Kidnapping,2012,4,Yes,5,Teenager
+Punjab,Kidnapping,2023,28,No,8,Senior
+Rajasthan,Assault,2005,40,Yes,5,Teenager
+Maharashtra,Domestic Violence,2015,18,No,7,Child
+Uttar Pradesh,Robbery,2009,29,Yes,6,Child
+West Bengal,Robbery,2001,34,Yes,4,Teenager
+West Bengal,Domestic Violence,2022,30,No,10,Senior
+Maharashtra,Kidnapping,2016,5,No,9,Teenager
+Bihar,Domestic Violence,2000,15,No,10,Teenager
+West Bengal,Assault,2013,26,Yes,2,Child
+Tamil Nadu,Drugs,2000,5,No,9,Adult
+Kerala,Other,2001,17,No,5,Senior
+Karnataka,Fraud,2000,45,Yes,2,Senior
+Gujarat,Theft,2012,19,No,10,Adult
+Rajasthan,Assault,2011,12,Yes,6,Senior
+Bihar,Theft,2004,17,No,9,Senior
+Bihar,Murder,2023,42,No,4,Teenager
+Tamil Nadu,Robbery,2015,11,No,4,Adult
+Bihar,Drugs,2004,34,No,8,Adult
+Bihar,Murder,2008,33,No,2,Adult
+Karnataka,Kidnapping,2022,22,No,3,Teenager
+Uttar Pradesh,Other,2020,47,No,9,Child
+Uttar Pradesh,Kidnapping,2003,43,No,8,Senior
+Maharashtra,Cybercrime,2013,28,Yes,3,Child
+Kerala,Robbery,2018,11,Yes,10,Child
+Bihar,Drugs,2000,10,No,4,Senior
+Punjab,Murder,2006,7,No,7,Teenager
+Karnataka,Assault,2005,14,No,10,Adult
+Tamil Nadu,Drugs,2022,50,Yes,10,Adult
+West Bengal,Domestic Violence,2007,43,No,8,Child
+Tamil Nadu,Cybercrime,2004,12,Yes,3,Adult
+Gujarat,Cybercrime,2012,21,Yes,4,Teenager
+Gujarat,Assault,2007,44,Yes,4,Teenager
+Bihar,Kidnapping,2022,23,No,6,Senior
+Gujarat,Kidnapping,2017,35,Yes,1,Teenager
+Punjab,Assault,2011,36,Yes,7,Child
+Uttar Pradesh,Other,2007,37,No,2,Teenager
+Punjab,Murder,2012,24,No,10,Senior
+Uttar Pradesh,Fraud,2019,41,No,1,Teenager
+Maharashtra,Drugs,2005,21,Yes,10,Senior
+Tamil Nadu,Domestic Violence,2020,48,No,7,Teenager
+Rajasthan,Domestic Violence,2021,40,Yes,9,Adult
+West Bengal,Robbery,2018,30,No,10,Teenager
+Tamil Nadu,Murder,2023,35,No,3,Senior
+Tamil Nadu,Domestic Violence,2013,22,Yes,1,Child
+Karnataka,Kidnapping,2011,48,Yes,8,Teenager
+Tamil Nadu,Robbery,2003,30,Yes,7,Teenager
+Bihar,Murder,2017,3,Yes,6,Child
+Maharashtra,Theft,2018,39,No,1,Teenager
+West Bengal,Robbery,2003,12,Yes,6,Senior
+Bihar,Kidnapping,2012,39,Yes,4,Child
+Bihar,Fraud,2018,42,Yes,7,Adult
+Karnataka,Murder,2009,6,Yes,6,Teenager
+Uttar Pradesh,Assault,2004,50,No,9,Teenager
+Gujarat,Theft,2017,40,Yes,6,Senior
+Tamil Nadu,Drugs,2000,12,Yes,7,Teenager
+Tamil Nadu,Cybercrime,2000,5,No,6,Adult
+Bihar,Other,2008,2,Yes,5,Adult
+Punjab,Domestic Violence,2020,31,Yes,4,Adult
+West Bengal,Murder,2013,17,No,4,Teenager
+Uttar Pradesh,Fraud,2018,46,Yes,8,Child
+Uttar Pradesh,Drugs,2006,45,No,4,Adult
+Bihar,Cybercrime,2010,41,No,9,Senior
+West Bengal,Cybercrime,2006,25,No,7,Child
+Karnataka,Other,2013,24,No,1,Teenager
+Bihar,Robbery,2020,6,Yes,2,Child
+West Bengal,Kidnapping,2001,45,Yes,8,Child
+Kerala,Fraud,2011,32,Yes,4,Child
+Gujarat,Fraud,2023,15,Yes,4,Teenager
+Kerala,Cybercrime,2013,25,Yes,9,Teenager
+Bihar,Other,2011,42,No,8,Senior
+Kerala,Murder,2000,26,Yes,2,Senior
+Gujarat,Murder,2019,17,Yes,9,Teenager
+Bihar,Drugs,2023,38,Yes,10,Senior
+West Bengal,Fraud,2013,4,Yes,1,Adult
+West Bengal,Robbery,2020,20,Yes,1,Child
+Maharashtra,Robbery,2006,36,No,1,Senior
+Uttar Pradesh,Fraud,2018,47,Yes,7,Adult
+Rajasthan,Robbery,2023,6,No,8,Teenager
+Karnataka,Other,2005,16,Yes,2,Senior
+West Bengal,Other,2001,39,No,6,Adult
+Karnataka,Assault,2019,18,Yes,4,Senior
+Punjab,Other,2002,27,Yes,2,Adult
+Maharashtra,Kidnapping,2004,37,No,4,Adult
+Tamil Nadu,Kidnapping,2004,20,Yes,2,Senior
+Tamil Nadu,Fraud,2007,2,Yes,8,Child
+Karnataka,Theft,2020,10,No,1,Child
+Maharashtra,Murder,2002,1,No,2,Teenager
+Gujarat,Other,2019,27,No,10,Senior
+Kerala,Drugs,2023,50,No,5,Adult
+Punjab,Theft,2023,19,Yes,4,Senior
+Tamil Nadu,Domestic Violence,2020,44,No,1,Senior
+Bihar,Domestic Violence,2018,18,No,6,Senior
+Uttar Pradesh,Other,2001,13,No,3,Senior
+Karnataka,Assault,2013,42,No,7,Child
+Tamil Nadu,Domestic Violence,2004,25,Yes,6,Child
+Maharashtra,Theft,2002,17,Yes,3,Child
+Gujarat,Kidnapping,2020,44,Yes,8,Senior
+Punjab,Other,2001,42,No,8,Senior
+Gujarat,Fraud,2004,38,Yes,4,Teenager
+Punjab,Theft,2014,38,No,8,Teenager
+Punjab,Robbery,2007,2,No,1,Child
+Punjab,Theft,2006,9,Yes,1,Teenager
+Punjab,Theft,2022,23,No,3,Teenager
+Uttar Pradesh,Kidnapping,2003,19,No,7,Senior
+Maharashtra,Fraud,2009,13,Yes,1,Child
+Punjab,Murder,2010,11,Yes,10,Teenager
+Bihar,Theft,2012,36,No,2,Adult
+West Bengal,Theft,2010,32,No,1,Child
+Punjab,Kidnapping,2009,32,Yes,2,Child
+Uttar Pradesh,Fraud,2018,10,No,5,Child
+Bihar,Domestic Violence,2009,13,No,3,Senior
+Gujarat,Drugs,2014,37,No,3,Senior
+Gujarat,Cybercrime,2013,12,Yes,5,Teenager
+Gujarat,Kidnapping,2007,17,Yes,4,Child
+Uttar Pradesh,Domestic Violence,2018,32,Yes,9,Adult
+Tamil Nadu,Murder,2001,37,No,9,Teenager
+Uttar Pradesh,Other,2007,47,No,5,Teenager
+Kerala,Drugs,2002,21,No,7,Child
+Gujarat,Domestic Violence,2016,16,Yes,9,Child
+Gujarat,Domestic Violence,2009,36,Yes,4,Child
+Karnataka,Murder,2018,39,No,8,Senior
+Kerala,Theft,2023,21,Yes,2,Senior
+Gujarat,Robbery,2008,39,No,1,Teenager
+Uttar Pradesh,Fraud,2008,22,No,3,Child
+Rajasthan,Other,2000,44,No,7,Senior
+West Bengal,Fraud,2014,1,No,6,Senior
+West Bengal,Kidnapping,2007,10,Yes,8,Teenager
+Bihar,Assault,2009,45,Yes,6,Adult
+Gujarat,Murder,2019,36,No,1,Child
+Rajasthan,Kidnapping,2004,18,Yes,2,Senior
+West Bengal,Kidnapping,2012,30,Yes,1,Teenager
+Kerala,Fraud,2023,8,Yes,8,Adult
+Uttar Pradesh,Robbery,2007,1,No,10,Senior
+West Bengal,Theft,2020,36,No,7,Teenager
+Tamil Nadu,Theft,2012,22,Yes,5,Child
+Tamil Nadu,Drugs,2016,37,Yes,6,Teenager
+Maharashtra,Drugs,2020,4,Yes,9,Child
+Tamil Nadu,Murder,2008,49,Yes,10,Adult
+Punjab,Kidnapping,2009,32,No,1,Teenager
+Karnataka,Robbery,2017,1,Yes,4,Teenager
+Tamil Nadu,Robbery,2008,27,No,8,Teenager
+Karnataka,Murder,2022,31,Yes,8,Child
+Karnataka,Assault,2007,8,Yes,10,Teenager
+Uttar Pradesh,Murder,2014,43,Yes,4,Child
+West Bengal,Robbery,2023,41,No,10,Teenager
+Rajasthan,Fraud,2018,5,No,4,Teenager
+Kerala,Drugs,2003,41,Yes,1,Senior
+Kerala,Domestic Violence,2013,10,No,3,Teenager
+Punjab,Kidnapping,2004,10,Yes,6,Adult
+Bihar,Fraud,2023,45,No,4,Child
+Gujarat,Murder,2009,6,No,9,Child
+Maharashtra,Other,2017,38,No,3,Child
+Bihar,Robbery,2019,12,Yes,4,Teenager
+Bihar,Drugs,2020,21,Yes,1,Adult
+Punjab,Drugs,2010,26,No,8,Adult
+Gujarat,Robbery,2007,40,Yes,5,Senior
+Rajasthan,Assault,2022,6,Yes,2,Adult
+Rajasthan,Assault,2018,1,No,6,Senior
+Punjab,Other,2008,20,Yes,9,Senior
+Maharashtra,Kidnapping,2005,26,Yes,6,Senior
+Kerala,Kidnapping,2003,20,No,10,Senior
+Gujarat,Fraud,2011,25,Yes,2,Child
+Punjab,Drugs,2011,28,Yes,8,Senior
+Uttar Pradesh,Robbery,2017,32,Yes,1,Teenager
+Kerala,Robbery,2014,27,Yes,10,Adult
+Bihar,Murder,2013,30,Yes,6,Child
+Karnataka,Other,2015,48,Yes,6,Teenager
+Gujarat,Kidnapping,2016,45,No,8,Child
+Bihar,Kidnapping,2013,23,Yes,7,Adult
+Punjab,Murder,2009,19,Yes,4,Teenager
+Uttar Pradesh,Domestic Violence,2023,10,No,9,Adult
+Rajasthan,Kidnapping,2008,29,No,3,Teenager
+Bihar,Other,2007,38,No,1,Child
+Bihar,Domestic Violence,2005,1,Yes,3,Senior
+Gujarat,Domestic Violence,2018,3,No,3,Senior
+Gujarat,Kidnapping,2005,1,No,6,Senior
+Punjab,Domestic Violence,2012,17,No,7,Child
+Karnataka,Assault,2022,43,Yes,9,Senior
+Uttar Pradesh,Assault,2011,41,Yes,6,Child
+Rajasthan,Kidnapping,2004,40,No,10,Adult
+Rajasthan,Murder,2000,33,Yes,1,Senior
+Tamil Nadu,Domestic Violence,2023,26,Yes,8,Child
+Uttar Pradesh,Fraud,2014,9,Yes,6,Senior
+Kerala,Kidnapping,2000,25,No,3,Teenager
+Karnataka,Assault,2009,46,No,5,Senior
+Rajasthan,Murder,2018,22,Yes,2,Senior
+Maharashtra,Theft,2007,17,No,1,Teenager
+Uttar Pradesh,Murder,2013,33,No,9,Senior
+Maharashtra,Drugs,2015,1,No,8,Adult
+Kerala,Drugs,2006,20,No,6,Teenager
+Gujarat,Fraud,2012,46,No,10,Teenager
+Rajasthan,Murder,2003,31,No,5,Child
+Bihar,Murder,2002,41,Yes,8,Teenager
+Maharashtra,Theft,2012,12,Yes,6,Senior
+Uttar Pradesh,Other,2010,36,Yes,10,Teenager
+Uttar Pradesh,Domestic Violence,2004,19,No,2,Senior
+Karnataka,Murder,2002,38,Yes,2,Senior
+Gujarat,Assault,2013,44,Yes,9,Teenager
+Uttar Pradesh,Kidnapping,2023,9,Yes,8,Teenager
+West Bengal,Cybercrime,2014,20,No,10,Child
+Maharashtra,Kidnapping,2023,16,Yes,10,Child
+Uttar Pradesh,Cybercrime,2018,44,No,2,Adult
+West Bengal,Robbery,2014,16,No,2,Adult
+Gujarat,Cybercrime,2001,43,No,7,Senior
+Maharashtra,Assault,2008,49,No,9,Teenager
+Gujarat,Drugs,2014,9,No,3,Adult
+Bihar,Other,2003,44,Yes,3,Child
+Karnataka,Other,2007,43,Yes,8,Senior
+Maharashtra,Cybercrime,2017,17,Yes,10,Adult
+Gujarat,Fraud,2003,26,Yes,3,Adult
+Gujarat,Domestic Violence,2010,42,No,6,Teenager
+West Bengal,Drugs,2018,17,Yes,2,Adult
+Bihar,Other,2020,9,No,10,Teenager
+Tamil Nadu,Other,2006,41,No,9,Child
+Rajasthan,Robbery,2020,10,No,2,Child
+Maharashtra,Domestic Violence,2005,1,Yes,6,Child
+Bihar,Theft,2014,43,Yes,6,Teenager
+Karnataka,Robbery,2005,40,Yes,4,Adult
+Rajasthan,Fraud,2018,32,Yes,9,Adult
+Kerala,Fraud,2003,37,No,5,Child
+Maharashtra,Assault,2023,38,Yes,2,Senior
+Kerala,Cybercrime,2015,12,No,4,Adult
+Tamil Nadu,Robbery,2007,45,Yes,1,Senior
+West Bengal,Robbery,2001,1,No,4,Teenager
+Rajasthan,Cybercrime,2003,44,Yes,6,Child
+Rajasthan,Cybercrime,2013,48,Yes,5,Teenager
+Gujarat,Domestic Violence,2012,26,No,8,Senior
+Rajasthan,Kidnapping,2009,24,Yes,9,Teenager
+Kerala,Cybercrime,2003,43,Yes,9,Adult
+Rajasthan,Murder,2008,20,Yes,4,Child
+Karnataka,Murder,2020,18,No,4,Adult
+Maharashtra,Theft,2015,1,No,9,Child
+Bihar,Other,2011,30,No,10,Senior
+Uttar Pradesh,Kidnapping,2007,19,No,1,Teenager
+Punjab,Murder,2020,32,Yes,5,Child
+Bihar,Drugs,2002,8,Yes,8,Adult
+Karnataka,Murder,2007,38,Yes,4,Child
+West Bengal,Fraud,2000,21,Yes,5,Adult
+Rajasthan,Drugs,2008,11,No,2,Senior
+Punjab,Cybercrime,2010,29,No,5,Child
+Gujarat,Robbery,2011,41,Yes,5,Teenager
+Karnataka,Murder,2010,20,No,8,Child
+Uttar Pradesh,Fraud,2020,47,Yes,1,Teenager
+Uttar Pradesh,Assault,2020,50,Yes,4,Adult
+Gujarat,Fraud,2001,4,Yes,10,Child
+Punjab,Assault,2020,21,No,6,Teenager
+Punjab,Other,2008,48,Yes,7,Senior
+Bihar,Domestic Violence,2003,16,Yes,3,Teenager
+Uttar Pradesh,Other,2010,49,No,4,Teenager
+Kerala,Robbery,2007,13,Yes,7,Senior
+Karnataka,Drugs,2001,36,Yes,3,Teenager
+Maharashtra,Drugs,2000,38,Yes,8,Adult
+Rajasthan,Robbery,2000,31,No,5,Senior
+Uttar Pradesh,Assault,2009,48,No,3,Teenager
+Kerala,Cybercrime,2019,20,No,10,Teenager
+Tamil Nadu,Murder,2007,48,No,1,Adult
+Maharashtra,Drugs,2012,34,No,9,Child
+Maharashtra,Assault,2003,28,Yes,8,Teenager
+Maharashtra,Other,2022,9,Yes,10,Teenager
+Karnataka,Fraud,2003,23,Yes,5,Senior
+Rajasthan,Theft,2021,28,No,4,Senior
+Maharashtra,Murder,2015,43,No,4,Teenager
+Maharashtra,Assault,2003,15,Yes,1,Senior
+Tamil Nadu,Other,2006,7,Yes,1,Child
+Bihar,Domestic Violence,2018,2,Yes,5,Senior
+West Bengal,Cybercrime,2000,48,Yes,10,Teenager
+Karnataka,Domestic Violence,2009,27,Yes,2,Child
+Rajasthan,Assault,2017,48,No,3,Teenager
+Kerala,Murder,2006,14,No,9,Teenager
+West Bengal,Cybercrime,2005,7,Yes,1,Senior
+Gujarat,Theft,2012,23,Yes,5,Adult
+Punjab,Domestic Violence,2014,12,No,9,Teenager
+West Bengal,Robbery,2015,49,No,9,Child
+Tamil Nadu,Domestic Violence,2015,21,No,9,Senior
+Bihar,Cybercrime,2002,35,No,3,Teenager
+Karnataka,Domestic Violence,2009,24,Yes,10,Child
+Kerala,Assault,2016,29,No,3,Child
+Rajasthan,Cybercrime,2010,16,Yes,5,Senior
+Maharashtra,Fraud,2022,38,No,10,Child
+West Bengal,Murder,2021,14,No,10,Teenager
+Uttar Pradesh,Assault,2017,13,Yes,6,Child
+Tamil Nadu,Fraud,2019,49,Yes,5,Adult
+Bihar,Murder,2012,6,Yes,8,Child
+Maharashtra,Other,2010,39,No,4,Teenager
+Maharashtra,Fraud,2003,34,Yes,10,Adult
+Rajasthan,Domestic Violence,2003,42,Yes,7,Teenager
+Kerala,Theft,2010,19,Yes,10,Senior
+Karnataka,Murder,2014,30,Yes,7,Senior
+Kerala,Theft,2013,22,Yes,2,Adult
+Karnataka,Murder,2018,21,No,6,Teenager
+Rajasthan,Kidnapping,2014,47,No,8,Adult
+Rajasthan,Fraud,2019,44,Yes,5,Teenager
+Bihar,Drugs,2008,22,No,5,Child
+Maharashtra,Fraud,2022,49,No,6,Adult
+Gujarat,Drugs,2003,22,No,4,Adult
+Karnataka,Murder,2014,16,No,3,Child
+Rajasthan,Fraud,2023,13,No,5,Senior
+Uttar Pradesh,Other,2001,12,Yes,10,Child
+Kerala,Fraud,2010,25,Yes,4,Adult
+West Bengal,Cybercrime,2003,15,No,6,Senior
+Karnataka,Other,2016,14,No,9,Child
+Gujarat,Drugs,2013,19,Yes,7,Senior
+Maharashtra,Theft,2001,4,No,8,Senior
+Kerala,Kidnapping,2018,35,No,3,Child
+Gujarat,Domestic Violence,2022,45,No,9,Teenager
+Bihar,Kidnapping,2009,1,No,9,Senior
+Uttar Pradesh,Other,2008,19,Yes,6,Adult
+Maharashtra,Kidnapping,2003,24,Yes,5,Adult
+Punjab,Theft,2023,31,Yes,3,Teenager
+Maharashtra,Drugs,2015,48,Yes,5,Senior
+West Bengal,Robbery,2008,28,No,1,Adult
+Tamil Nadu,Fraud,2010,48,No,3,Teenager
+Maharashtra,Theft,2014,14,No,9,Senior
+Punjab,Robbery,2000,24,Yes,6,Senior
+Maharashtra,Murder,2020,43,No,10,Teenager
+Karnataka,Murder,2003,46,No,7,Child
+West Bengal,Other,2006,40,No,8,Child
+West Bengal,Other,2011,46,Yes,5,Adult
+West Bengal,Assault,2015,43,Yes,1,Senior
+Bihar,Murder,2001,11,No,2,Senior
+Maharashtra,Fraud,2019,41,No,2,Teenager
+Punjab,Fraud,2008,14,No,6,Teenager
+Tamil Nadu,Fraud,2006,47,No,7,Adult
+Maharashtra,Drugs,2019,48,Yes,7,Adult
+Karnataka,Drugs,2014,49,Yes,10,Child
+Gujarat,Domestic Violence,2022,35,Yes,6,Teenager
+Tamil Nadu,Assault,2007,41,No,2,Senior
+Kerala,Theft,2016,12,Yes,10,Senior
+West Bengal,Theft,2010,20,No,7,Senior
+Rajasthan,Assault,2001,48,No,5,Child
+Kerala,Other,2012,4,Yes,1,Teenager
+West Bengal,Other,2020,20,No,1,Adult
+Maharashtra,Kidnapping,2006,11,No,1,Teenager
+Maharashtra,Kidnapping,2006,39,Yes,6,Adult
+Kerala,Other,2002,17,Yes,4,Senior
+West Bengal,Robbery,2016,25,Yes,5,Senior
+Punjab,Kidnapping,2010,42,Yes,8,Teenager
+Rajasthan,Drugs,2019,41,Yes,9,Adult
+Tamil Nadu,Theft,2008,35,No,3,Adult
+Punjab,Robbery,2012,29,Yes,10,Senior
+Punjab,Cybercrime,2018,12,Yes,6,Child
+Karnataka,Kidnapping,2003,50,Yes,8,Teenager
+Karnataka,Domestic Violence,2009,31,Yes,6,Teenager
+Bihar,Fraud,2003,31,No,7,Child
+Punjab,Domestic Violence,2004,12,Yes,6,Child
+Gujarat,Cybercrime,2019,3,Yes,2,Senior
+Kerala,Kidnapping,2012,4,Yes,9,Child
+Tamil Nadu,Drugs,2021,5,Yes,5,Senior
+Uttar Pradesh,Kidnapping,2015,8,Yes,1,Child
+Karnataka,Domestic Violence,2014,13,Yes,9,Adult
+Punjab,Kidnapping,2021,36,Yes,3,Adult
+Bihar,Drugs,2002,14,Yes,4,Senior
+Maharashtra,Drugs,2007,3,No,9,Child
+Rajasthan,Assault,2004,2,Yes,10,Child
+Tamil Nadu,Drugs,2022,1,No,8,Child
+Punjab,Robbery,2012,32,No,7,Child
+Tamil Nadu,Kidnapping,2001,43,Yes,10,Adult
+Punjab,Other,2004,13,Yes,6,Adult
+Karnataka,Kidnapping,2015,19,No,4,Teenager
+Tamil Nadu,Domestic Violence,2004,32,No,4,Adult
+Maharashtra,Drugs,2011,5,No,1,Senior
+West Bengal,Domestic Violence,2023,39,Yes,7,Senior
+Gujarat,Kidnapping,2022,17,No,7,Adult
+Rajasthan,Domestic Violence,2020,31,No,8,Teenager
+Punjab,Domestic Violence,2011,33,Yes,3,Child
+Bihar,Kidnapping,2003,37,Yes,7,Senior
+Gujarat,Murder,2010,37,Yes,9,Teenager
+Uttar Pradesh,Other,2002,43,No,8,Senior
+Rajasthan,Murder,2021,25,No,2,Senior
+Gujarat,Murder,2003,9,Yes,5,Adult
+Rajasthan,Domestic Violence,2001,10,Yes,4,Adult
+Tamil Nadu,Kidnapping,2012,21,Yes,6,Child
+Tamil Nadu,Murder,2021,9,No,3,Adult
+Bihar,Kidnapping,2002,7,Yes,1,Senior
+Karnataka,Domestic Violence,2007,28,Yes,6,Teenager
+Tamil Nadu,Domestic Violence,2003,48,Yes,9,Teenager
+Uttar Pradesh,Robbery,2022,4,No,6,Adult
+Uttar Pradesh,Murder,2021,9,No,7,Adult
+Tamil Nadu,Drugs,2003,31,Yes,4,Adult
+Bihar,Drugs,2018,31,Yes,6,Child
+Bihar,Cybercrime,2004,48,Yes,1,Teenager
+Punjab,Fraud,2003,1,No,8,Teenager
+Tamil Nadu,Assault,2007,36,No,1,Child
+Rajasthan,Robbery,2009,19,No,6,Teenager
+Gujarat,Cybercrime,2023,9,Yes,6,Senior
+Bihar,Other,2008,3,No,2,Teenager
+Bihar,Assault,2015,25,No,2,Child
+Karnataka,Murder,2018,37,No,7,Teenager
+Punjab,Kidnapping,2000,32,Yes,9,Senior
+West Bengal,Fraud,2003,28,Yes,10,Teenager
+Bihar,Robbery,2011,8,No,2,Senior
+Bihar,Murder,2004,25,Yes,6,Teenager
+Uttar Pradesh,Fraud,2004,20,No,9,Teenager
+Punjab,Murder,2004,7,No,6,Adult
+Rajasthan,Theft,2016,29,No,9,Adult
+Bihar,Drugs,2006,20,No,6,Adult
+Punjab,Assault,2022,19,Yes,6,Senior
+Tamil Nadu,Assault,2010,4,Yes,6,Child
+Kerala,Assault,2006,18,No,7,Teenager
+Kerala,Drugs,2003,1,No,10,Senior
+Kerala,Other,2009,4,Yes,8,Senior
+Tamil Nadu,Theft,2019,34,Yes,6,Teenager
+Rajasthan,Kidnapping,2013,20,No,5,Adult
+Karnataka,Domestic Violence,2014,14,No,4,Senior
+Bihar,Other,2015,10,No,5,Senior
+Maharashtra,Fraud,2006,33,Yes,9,Teenager
+Maharashtra,Theft,2006,14,Yes,8,Teenager
+Uttar Pradesh,Fraud,2013,26,Yes,3,Child
+Karnataka,Murder,2002,19,Yes,4,Adult
+Maharashtra,Assault,2017,28,No,10,Teenager
+Bihar,Theft,2016,26,No,9,Child
+Bihar,Murder,2022,39,No,9,Senior
+Tamil Nadu,Robbery,2023,41,No,8,Child
